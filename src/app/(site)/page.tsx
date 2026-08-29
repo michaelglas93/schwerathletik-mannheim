@@ -62,7 +62,9 @@ export default async function HomePage() {
         />
 
         <div className="shell pb-20 pt-32 md:pb-28">
-          <p className="eyebrow">Seit {settings.founded} in Mannheim</p>
+          {/* Im Hero weiß statt orange — auf dem Foto trägt das Orange zu wenig,
+              und die Zeile steht direkt über der ohnehin orangen Headline-Hälfte. */}
+          <p className="eyebrow text-bone">Seit {settings.founded} in Mannheim</p>
           <h1 className="mt-4 max-w-4xl text-[clamp(2.75rem,9vw,6rem)] font-bold leading-[0.92]">
             Kraftdreikampf
             <span className="block text-accent">und Gewichtheben</span>
