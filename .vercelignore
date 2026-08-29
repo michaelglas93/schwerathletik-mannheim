@@ -1,0 +1,7 @@
+# Rohdaten des WordPress-Scrapes — werden nur lokal von scripts/extract.py gebraucht.
+scrape/
+
+# Werkzeuge, die nicht zur Laufzeit laufen.
+scripts/
+SITE-BRIEF.md
+ASSETS.md

@@ -1,0 +1,5541 @@
+{
+ "settings": {
+  "_id": "siteSettings",
+  "clubName": "Schwerathletik Mannheim 2018 e.V.",
+  "shortName": "Schwerathletik Mannheim",
+  "tagline": "Kraftdreikampf und Gewichtheben in Mannheim-Sandhofen",
+  "intro": "Wir sind ein Schwerathletikverein in Mannheim, der sich für die Förderung, Pflege und Verbreitung des Kraftsports einsetzt. Wir üben Kraftdreikampf, Gewichtheben und Freizeitsport aus und nehmen an sportlichen Wettkämpfen teil. Auch die Suche und Förderung von Talenten sind Teil des Vereins.",
+  "introSecond": "Wir legen großen Wert auf ein gutes Miteinander und gegenseitige Unterstützung.",
+  "founded": 2018,
+  "gymSince": 2021,
+  "heroImage": "/img/hero/home-hero.jpg",
+  "address": {
+   "street": "Maxburgstraße 4",
+   "zip": "68219",
+   "city": "Mannheim",
+   "co": "c/o Roy Lotzwik"
+  },
+  "gym": {
+   "name": "Halle des SKV Sandhofen",
+   "street": "Kalthorststraße 44",
+   "zip": "68307",
+   "city": "Mannheim"
+  },
+  "register": {
+   "number": "VR 702410",
+   "court": "Amtsgericht Mannheim"
+  },
+  "board": [
+   "Roy Lotzwik",
+   "Sven Mitländer",
+   "Benedikt Rhomberg-Kauert",
+   "Julia Renkel"
+  ],
+  "emails": [
+   {
+    "label": "Vorstand",
+    "address": "vorstand@schwerathletik-mannheim.de"
+   },
+   {
+    "label": "Abteilung Kraftdreikampf",
+    "address": "kdk@schwerathletik-mannheim.de"
+   },
+   {
+    "label": "Abteilung Gewichtheben",
+    "address": "gewichtheben@schwerathletik-mannheim.de"
+   },
+   {
+    "label": "Schlichtung",
+    "address": "schlichtung@schwerathletik-mannheim.de"
+   }
+  ],
+  "social": [
+   {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/schwerathletikmannheim"
+   },
+   {
+    "label": "Facebook",
+    "url": "https://www.facebook.com/profile.php?id=100046941896475"
+   }
+  ],
+  "fees": [
+   {
+    "label": "Mitgliedschaft Erwachsene",
+    "amount": "15 €",
+    "period": "pro Monat"
+   },
+   {
+    "label": "Mitgliedschaft ermäßigt",
+    "amount": "10 €",
+    "period": "pro Monat"
+   },
+   {
+    "label": "Trainingsstätte",
+    "amount": "16 €",
+    "period": "pro Monat"
+   },
+   {
+    "label": "SKV-Fitnessbereich dazu",
+    "amount": "5 €",
+    "period": "pro Monat"
+   }
+  ],
+  "partners": [
+   {
+    "label": "SKV Sandhofen",
+    "url": "https://www.skv-sandhofen.de",
+    "note": "Partnerverein, Trainingsstätte"
+   },
+   {
+    "label": "BWG",
+    "url": "https://www.bw-gewichtheben.de/",
+    "note": "Baden-Württembergischer Verband für Gewichtheben und Kraftdreikampf"
+   },
+   {
+    "label": "BVDK",
+    "url": "https://bvdk.de",
+    "note": "Bundesverband Deutscher Kraftdreikämpfer"
+   }
+  ],
+  "membershipFormUrl": "https://docuseal.eu/d/EzNCx6JoBgyFbo",
+  "skvMembershipUrl": "https://www.skv-sandhofen.de/de/mitglieder-service/deine-mitgliedschaft/"
+ },
+ "posts": [
+  {
+   "_id": "post-678",
+   "title": "Q2 – 2025",
+   "slug": "q2-2025",
+   "date": "2026-01-03",
+   "year": 2025,
+   "showDate": false,
+   "excerpt": "Im zweiten Jahresquartal standen gleich zwei Wettkämpfe an. Zum einen die DM KDK Classic der Aktiven, sowie unser vereinsinternes Jahreshighlight mit dem Nordbaden Cup im Mai. DM…",
+   "cover": {
+    "path": "/img/news/dsc06546-2.jpg",
+    "alt": "Q2 – 2025",
+    "mediaId": 110,
+    "width": 2560,
+    "height": 1707
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0006",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0005",
+       "text": "Im zweiten Jahresquartal standen gleich zwei Wettkämpfe an. Zum einen die DM KDK Classic der Aktiven, sowie unser vereinsinternes Jahreshighlight mit dem Nordbaden Cup im Mai. ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0026",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0027",
+       "text": "DM KDK Classic Aktive (25.04. – 27.04.2025)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0029",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0028",
+       "text": "Trotz der gesteigerten Normen für die Teilnahme an der DM, konnten wir 8 Athleten nach Erfurt senden. Alle kämpften, um gute Plätze. Mit Hannes in der – 93 Kg Klasse sicherten wir uns einen deutschen Meister Titel! Herzlichen Glückwunsch!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0012",
+     "headers": [
+      "Name",
+      "Gewichtsklasse",
+      "Total in Kg",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Veronika Schulze (w)",
+       "– 63 Kg",
+       "440",
+       "175",
+       "92,5",
+       "172,5"
+      ],
+      [
+       "Sophie Shevchenko (w)",
+       "– 69 Kg",
+       "447,5",
+       "175",
+       "95",
+       "177,5"
+      ],
+      [
+       "Julia Renkel (w)",
+       "– 69 Kg",
+       "432,5",
+       "167,5",
+       "95",
+       "170"
+      ],
+      [
+       "Jan-Anton Kollek (m)",
+       "– 83 Kg",
+       "647,5",
+       "220",
+       "142,5",
+       "285"
+      ],
+      [
+       "Hannes Hahn (m)",
+       "– 93 Kg",
+       "785",
+       "277,5",
+       "175",
+       "332,5"
+      ],
+      [
+       "Aeren McCall (m)",
+       "– 93 Kg",
+       "692,5",
+       "255",
+       "157,5",
+       "280"
+      ],
+      [
+       "Benedikt Rhomberg-Kauert (m)",
+       "– 120 Kg",
+       "770",
+       "267,5",
+       "170",
+       "332,5"
+      ],
+      [
+       "Marcel Weidner (m)",
+       "– 120 Kg",
+       "762,5",
+       "287,5",
+       "192,5",
+       "282,5"
+      ]
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0030",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0031",
+       "text": "Nordbaden Cup (03.05 + 04.05.2025)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0018",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0017",
+       "text": "Am langen Mai Wochenende war es wieder so weit und wir richteten die Bezirksmeisterschaft Nordbaden aus. Mit dem Feedback aus den letzten Jahren wurde zuvor am Wettkampf gefeilt und das Bestmögliche herausgeholt. Insgesamt starteten 52 Athleten in unterschiedlichen Gewichtsklassen, plus 8 Starter außer Konkurrenz.\nEinige Sponsoren machten den Wettkampf erst möglich, ebenso wie die Hilfe von unzähligen Mitgliedern an den Wettkampftagen. Vielen Dank auf diesem Wege für die Unterstützung!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0021",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0020",
+       "text": "Die Ergebnisse unserer Mitglieder:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0023",
+     "headers": [
+      "Name",
+      "Gewichtsklasse",
+      "Total in Kg",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Anne Reinhardt (w)",
+       "– 57 Kg",
+       "300",
+       "105",
+       "62,5",
+       "132,5"
+      ],
+      [
+       "Heike Stein (w)",
+       "– 63 Kg",
+       "275",
+       "100",
+       "55",
+       "120"
+      ],
+      [
+       "Michelle Güttlein (w)",
+       "– 69 Kg",
+       "352,5",
+       "122,5",
+       "70",
+       "160"
+      ],
+      [
+       "Viktoria Eidenmüller (w)",
+       "– 76 Kg",
+       "340",
+       "120",
+       "85",
+       "135"
+      ],
+      [
+       "Samira Weckesser (w)",
+       "– 76 Kg",
+       "272,5",
+       "97,5",
+       "55",
+       "120"
+      ],
+      [
+       "Jonas Korn (m)",
+       "– 74 Kg",
+       "547,5",
+       "185",
+       "142,5",
+       "220"
+      ],
+      [
+       "Simon Ramirez (m)",
+       "– 83 Kg",
+       "465",
+       "147,5",
+       "125",
+       "192,5"
+      ],
+      [
+       "Nikola Sarvas (m)",
+       "– 83 Kg",
+       "432,5",
+       "160",
+       "92,5",
+       "180"
+      ],
+      [
+       "Lukas Eisinger (m)",
+       "– 93 Kg",
+       "667,5",
+       "242,5",
+       "160",
+       "265"
+      ],
+      [
+       "Krystian Iskra (m)",
+       "– 93 Kg",
+       "660",
+       "227,5",
+       "170",
+       "262,5"
+      ],
+      [
+       "Joshua Ehi (m)",
+       "– 93 Kg",
+       "580",
+       "210",
+       "125",
+       "245"
+      ],
+      [
+       "Joshua Rech (m)",
+       "– 93 Kg",
+       "530",
+       "190",
+       "122,5",
+       "217,5"
+      ],
+      [
+       "Sven Mitländer (m)",
+       "– 105 Kg",
+       "650",
+       "232,5",
+       "152,5",
+       "265"
+      ],
+      [
+       "Ege Elci (m)",
+       "– 105 Kg",
+       "602,5",
+       "217,5",
+       "135",
+       "250"
+      ],
+      [
+       "Gregor Loosen (m)",
+       "– 120 Kg",
+       "715",
+       "265",
+       "170",
+       "280"
+      ],
+      [
+       "Ruben Lohberg (m)",
+       "– 120 Kg",
+       "650",
+       "222,5",
+       "172,5",
+       "255"
+      ],
+      [
+       "Fabian Werner (m)",
+       "– 120 Kg",
+       "575",
+       "190",
+       "145",
+       "240"
+      ],
+      [
+       "Fabio Hermann (m)",
+       "– 120 Kg",
+       "455",
+       "165",
+       "92,5",
+       "197,5"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-676",
+   "title": "Q1 – 2025",
+   "slug": "q1-2025",
+   "date": "2025-12-31",
+   "year": 2025,
+   "showDate": true,
+   "excerpt": "Einige der Schwerathletik Mitglieder sind direkt mit einem Wettkampf in das neue Jahr gestartet und folgten der Einladung des KSV nach Frankfurt zum Wintercup. Dieser fand am…",
+   "cover": null,
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0037",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0036",
+       "text": "Einige der Schwerathletik Mitglieder sind direkt mit einem Wettkampf in das neue Jahr gestartet und folgten der Einladung des KSV nach Frankfurt zum Wintercup. Dieser fand am ersten Januarwochenende statt. Mit guten Einstiegsleistungen ging es damit in das Jahr 2025. ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0040",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0039",
+       "text": "Ein Dank an den KSV für die Ausrichtung des Wettkampfs. Wir unterstützen immer gerne mit starker Teilnehmerzahl !",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0042",
+     "headers": [
+      "Name",
+      "Gewichtsklasse",
+      "Total",
+      "Kniebeugen",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Nagy, Christin (w)",
+       "– 69 Kg",
+       "327,5",
+       "122,5",
+       "65",
+       "140"
+      ],
+      [
+       "Bierhoff, Caroline (w)",
+       "– 76 Kg",
+       "352,5",
+       "137,5",
+       "75",
+       "140"
+      ],
+      [
+       "Scheid, Jana (w)",
+       "– 76 Kg",
+       "337,5",
+       "130",
+       "55",
+       "152,5"
+      ],
+      [
+       "Kollek, Jan-Anton (m)",
+       "– 83 Kg",
+       "640,5",
+       "220",
+       "17,5",
+       "283"
+      ],
+      [
+       "Brocker, Kevin (m)",
+       "– 83 Kg",
+       "572,5",
+       "217,5",
+       "127,5",
+       "227,5"
+      ],
+      [
+       "Ehi, Joshua (m)",
+       "– 83 Kg",
+       "542,5",
+       "200",
+       "112,5",
+       "230"
+      ],
+      [
+       "Sarvas, Nikola (m)",
+       "– 83 Kg",
+       "405",
+       "145",
+       "90",
+       "170"
+      ],
+      [
+       "Mitländer, Sven (m)",
+       "– 105 Kg",
+       "657,5",
+       "240",
+       "155",
+       "262,5"
+      ],
+      [
+       "Schlensok, Ruben (m)",
+       "– 105 Kg",
+       "615",
+       "230",
+       "140",
+       "245"
+      ],
+      [
+       "Hermann, Fabio (m)",
+       "– 120 Kg",
+       "425",
+       "165",
+       "90",
+       "170"
+      ]
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0045",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0044",
+       "text": "Weiterhin fand, wie jedes Jahr, die ordentliche Mitgliederversammlung statt. Es wurden einige gute Diskussionen geführt und Ämter neu vergeben. Nach dem alle To-Dos abgearbeitet wurden, durfte der Abend noch in der Runde ausklingen. ",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-667",
+   "title": "Q4 – 2024 Rückblick",
+   "slug": "q4-2024-ruckblick",
+   "date": "2025-12-31",
+   "year": 2024,
+   "showDate": false,
+   "excerpt": "Mit großen Schritten nähert sich das Jahr 2024 dem Ende. Einige Wettkämpfe liegen hinter dem Verein im Kraftdreikampf, Gewichtheben und auch im Freizeitsport waren viele Mitglieder…",
+   "cover": null,
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0052",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0051",
+       "text": "Mit großen Schritten nähert sich das Jahr 2024 dem Ende. \nEinige Wettkämpfe liegen hinter dem Verein im Kraftdreikampf, Gewichtheben und auch im Freizeitsport waren viele Mitglieder aktiv vertreten.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0055",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0054",
+       "text": "Die Trainingsstätte wurde weiter ausgebaut, ein grandioses Sommertrainingslager liegt hinter uns und einen letzten offiziellen Wettkampf gab es im Oktober mit der DM Jugend & Junioren.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0058",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0057",
+       "text": "Zwei unserer Athleten durften an der DM teilnehmen und haben uns gut vertreten. Sophia hat uns auch noch den zweiten Platz in der -69 Kg Klasse gesichert!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0060",
+     "headers": [
+      "Name",
+      "Gewichtsklasse",
+      "Total in Kg",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Elci, Ege (m)",
+       "– 105 Kg",
+       "572,5",
+       "212,5",
+       "120",
+       "240"
+      ],
+      [
+       "Shevchenko, Sophia (w)",
+       "– 69 Kg",
+       "432,5",
+       "165",
+       "90",
+       "177,5"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-662",
+   "title": "Q3 – 2024 Rückblick",
+   "slug": "q3-2024-ruckblick",
+   "date": "2025-12-31",
+   "year": 2024,
+   "showDate": false,
+   "excerpt": "Im Sommer ging es 2024 stark weiter für einige Athleten. Den Auftakt machte der KSV Summercup in Frankfurt an dem 6 unserer Athleten teilnahmen. Bei äußerst…",
+   "cover": {
+    "path": "/img/news/dmaktive22-simon.jpg",
+    "alt": "Q3 – 2024 Rückblick",
+    "mediaId": 471,
+    "width": 1280,
+    "height": 1280
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0067",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0066",
+       "text": "Im Sommer ging es 2024 stark weiter für einige Athleten.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0070",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0069",
+       "text": "Den Auftakt machte der KSV Summercup in Frankfurt an dem 6 unserer Athleten teilnahmen. Bei äußerst sommerlichem Wetter ging es in der Halle an den Start, um die persönliche Bestleistung zu zeigen. ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0073",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0072",
+       "text": "Ein Dank gilt dem KSV für die Ausrichtung. Hier die Ergebnisse: ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0075",
+     "headers": [
+      "Name",
+      "Gewichtsklasse",
+      "Total in Kg",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Shevchenko, Sophia (w)",
+       "– 69 Kg",
+       "412,5",
+       "157,5",
+       "85",
+       "170"
+      ],
+      [
+       "Gräbner, Lucas (m)",
+       "– 83 Kg",
+       "637,5",
+       "240",
+       "147,5",
+       "250"
+      ],
+      [
+       "Eisinger, Lukas (m)",
+       "– 93Kg",
+       "650",
+       "237,5",
+       "157,5",
+       "255"
+      ],
+      [
+       "Demleitner, Sebastian (m)",
+       "– 93Kg",
+       "502,5",
+       "182,5",
+       "122,5",
+       "197,5"
+      ],
+      [
+       "Lohberg, Ruben (m)",
+       "– 105 Kg",
+       "655",
+       "217,5",
+       "175",
+       "262,5"
+      ],
+      [
+       "Oswald, Simon (m)",
+       "– 105 Kg",
+       "635",
+       "220",
+       "145",
+       "270"
+      ]
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0084",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0077",
+       "text": "Weiter ging es im August für unsere ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0078",
+       "text": "Gewichtheber Sparte",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0079",
+       "text": " beim legendären ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0080",
+       "text": "Walter Engel Turnier",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0081",
+       "text": " in Ladenburg. Strahlender Sonnenschein, 33 Grad, Freiluft. Was begehren wir mehr für einen guten Wettkampf? Gute Athleten! Angetreten ist unser Verein mit 6 Gewichthebern im Einzelstart.\n\nDie guten Gesamtergebnisse sorgten zusätzlich für den ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0082",
+       "text": "Mannschaftspokal",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0083",
+       "text": ", den wir in Ehren entgegennahmen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0086",
+     "headers": [
+      "Name",
+      "Gewichtsklasse",
+      "Total in Kg",
+      "Reißen",
+      "Stoßen"
+     ],
+     "rows": [
+      [
+       "Gleiß, Nils (m)",
+       "– 89 Kg",
+       "170",
+       "70",
+       "100"
+      ],
+      [
+       "Reinhardt, Anne (w)",
+       "– 55 Kg",
+       "88",
+       "38",
+       "50"
+      ],
+      [
+       "Schulze, Veronika (w)",
+       "– 64 Kg",
+       "108",
+       "45",
+       "63"
+      ],
+      [
+       "Latus, Carmen (w)",
+       "– 87 Kg",
+       "112",
+       "47",
+       "65"
+      ],
+      [
+       "Burkhardt, Nina (w)",
+       "+ 87 Kg",
+       "125",
+       "55",
+       "70"
+      ],
+      [
+       "Schwabauer, Stanislaus (m)",
+       "– 109 Kg",
+       "150",
+       "65",
+       "85"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-612",
+   "title": "Q2 – 2024 Rückblick",
+   "slug": "q2-2024-ruckblick",
+   "date": "2024-05-23",
+   "year": 2024,
+   "showDate": true,
+   "excerpt": "Stark ging die Wettkampfsaison weiter mit der Deutschen Meisterschaft der Aktiven in Niestetal bei Kassel. Die DM fand Ende April statt. Angetreten ist der Verein mit…",
+   "cover": {
+    "path": "/img/news/dmaktive22-julia.jpg",
+    "alt": "Q2 – 2024 Rückblick",
+    "mediaId": 478,
+    "width": 683,
+    "height": 683
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0095",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0092",
+       "text": "Stark ging die Wettkampfsaison weiter mit der ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0093",
+       "text": "Deutschen Meisterschaft der Aktiven ",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0094",
+       "text": "in Niestetal bei Kassel. Die DM fand Ende April statt. Angetreten ist der Verein mit fünf Startern, vorrangig weiblich! \nMit den angepassten Voraussetzungen reduzierte sich die Starterzahl insgesamt bei der DM sowie die Teilnehmerzahl aus dem heimischen Verein. Dennoch haben die Starter den Verein gut repräsentiert und ihre Leistung bestens gezeigt. Veronika Schulze brachte den Sieg in der – 57 Kg Klasse mit nach Mannheim. Hannes und Mareike verpassten das Treppchen knapp. Die Stimmung vor Ort war ausgelassen und fröhlich, bei aller Anstrengung. ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0097",
+     "headers": [
+      "Name/ Geschlecht",
+      "Gewichtsklasse",
+      "Total",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Schulze, Veronika (w)",
+       "– 57 Kg",
+       "438",
+       "170,5 (Rekord)",
+       "97,5",
+       "170"
+      ],
+      [
+       "Gomer, Mareike (w)",
+       "– 63 Kg",
+       "395",
+       "137,5",
+       "92,5",
+       "165"
+      ],
+      [
+       "Winkler, Rebecca (w)",
+       "– 63 KG",
+       "382,5",
+       "130",
+       "77,5",
+       "175"
+      ],
+      [
+       "Renkel, Julia (w)",
+       "– 69 Kg",
+       "420",
+       "165",
+       "90",
+       "165"
+      ],
+      [
+       "Hahn, Hannes (m)",
+       "– 93 Kg",
+       "755",
+       "270",
+       "170",
+       "315"
+      ]
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0102",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0099",
+       "text": "Weiter ging es mit der ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0100",
+       "text": "Landesmeisterschaft der Jugend & Junioren",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0101",
+       "text": " in Fellbach am 18.05.2024. Der Nachwuchs des Vereins war mit 6 Startern vertreten. Dabei konnten sich einige Treppchen-Plätze gesichert werden. Dadurch, dass die LM und der Big Bull Fight (private Veranstaltung) auf ein Datum gefallen sind verteilten sich die Zuschauer aus den eigenen Rängen auf beide Veranstaltungen.\nZu den Ergebnissen:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0104",
+     "headers": [
+      "Name/ Geschlecht",
+      "Gewichtsklasse",
+      "Total in Kg",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Shevchenko, Sophia (w)",
+       "– 57 Kg",
+       "395",
+       "150",
+       "82,5",
+       "162,5"
+      ],
+      [
+       "Ehi, Joshua (m)",
+       "– 74 Kg",
+       "495",
+       "185",
+       "105",
+       "205"
+      ],
+      [
+       "Eisinger, Lukas (m)",
+       "– 83 Kg",
+       "652,5",
+       "240",
+       "160",
+       "252,5"
+      ],
+      [
+       "Schlensok, Ruben (m)",
+       "– 105 Kg",
+       "595",
+       "225",
+       "132,5",
+       "237,5"
+      ],
+      [
+       "Elci, Ege (m) \nJugend",
+       "– 105 Kg",
+       "570",
+       "215",
+       "115",
+       "240"
+      ]
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0109",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0106",
+       "text": "Das Highlight des zweiten Quartals war der eigens ausgerichtete ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0107",
+       "text": "Nordbaden Cup (RIP 69-Asozial Cup!)",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0108",
+       "text": " Ende Juni. In den heimischen Hallen im Norden Mannheims veranstalteten wir die offizielle Bezirksmeisterschaft, davon waren 15 Starter des eigenen Vereins. Mit dem Ablauf sowie Ergebnis des Wettkampfs sind wir zufrieden. Ebenfalls wurden wieder Learnings mitgenommen um die folgenden Wettkämpfe zu verbessern. \n\nEs ist ein großes Anliegen des Vereins jungen und neuen Startern einen guten ersten Wettkampf zu ermöglichen. Dies ist bei kleineren leichter als bei großen Veranstaltungen. \n\nEin großes Danke an die Helfer, Organisatoren und Zuschauer! Die Arbeit, die hinter einem eigenen Wettkampf steckt ist enorm und das weiß jeder zu schätzen. \n\nAnbei die Ergebnisse der vereinsinternen Starter:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0111",
+     "headers": [
+      "Name/ Geschlecht",
+      "Gewichtsklasse",
+      "Total in Kg",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Reinhardt, Anne (w)",
+       "-57 Kg",
+       "287,5",
+       "102,5",
+       "55",
+       "130"
+      ],
+      [
+       "Gomer, Mareike (w)",
+       "– 63 Kg",
+       "402,5",
+       "140",
+       "95",
+       "167,5"
+      ],
+      [
+       "Hanus, Anna (w)",
+       "– 69 Kg",
+       "325",
+       "110",
+       "70",
+       "145"
+      ],
+      [
+       "Binder, Bianca (w)",
+       "– 69 Kg",
+       "302,5",
+       "115",
+       "50",
+       "137,5"
+      ],
+      [
+       "Geppert, Lena (w)",
+       "+ 84 Kg",
+       "387,5",
+       "160",
+       "82,5",
+       "145"
+      ],
+      [
+       "Brocker, Kevin (m)",
+       "– 83 Kg",
+       "555",
+       "210",
+       "125",
+       "220"
+      ],
+      [
+       "Grund, Alexander (m)",
+       "– 93 Kg",
+       "635",
+       "230",
+       "147,5",
+       "257,5"
+      ],
+      [
+       "Muhieddine, Hadi (m)",
+       "– 93 Kg",
+       "625",
+       "215",
+       "150",
+       "260"
+      ],
+      [
+       "Gleiß, Nils (m)",
+       "– 93 Kg",
+       "612,5",
+       "22,5",
+       "137,5",
+       "252,5"
+      ],
+      [
+       "Thum, Tim (m)",
+       "– 105 Kg",
+       "662,5",
+       "260",
+       "147,5",
+       "255"
+      ],
+      [
+       "Reinfrank, Kevin (m)",
+       "– 105 Kg",
+       "647,5",
+       "245",
+       "145",
+       "257,5"
+      ],
+      [
+       "Thamm, Benjamin (m)",
+       "– 105 Kg",
+       "535",
+       "205",
+       "120",
+       "210"
+      ],
+      [
+       "Soylar, Dennis (m)",
+       "– 105 Kg",
+       "497,5",
+       "157,5",
+       "125",
+       "215"
+      ],
+      [
+       "Loosen, Gregor (m)",
+       "– 120 Kg",
+       "735",
+       "280",
+       "167,5",
+       "287,5"
+      ],
+      [
+       "Weber, Dominik (m)",
+       "– 120 Kg",
+       "570",
+       "215",
+       "130",
+       "225"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-610",
+   "title": "Q1 – 2024 Rückblick",
+   "slug": "q1-2024-ruckblick",
+   "date": "2024-03-23",
+   "year": 2024,
+   "showDate": true,
+   "excerpt": "Am Titel bemerken die aufmerksamen Leser der Neuigkeiten bereits, dass sich die Art und Weise der Updates auf dieser Webseite verändert. Ab sofort gibt es quartalsweise…",
+   "cover": {
+    "path": "/img/news/dmaktive22-rebecca.jpg",
+    "alt": "Q1 – 2024 Rückblick",
+    "mediaId": 484,
+    "width": 1280,
+    "height": 1280
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0118",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0117",
+       "text": "Am Titel bemerken die aufmerksamen Leser der Neuigkeiten bereits, dass sich die Art und Weise der Updates auf dieser Webseite verändert. Ab sofort gibt es quartalsweise Zusammenfassungen der Wettkämpfe und Ergebnisse. Weiterhin findest Du bei Instagram regelmäßige Updates, Ankündigungen und Rückblicke zu allen Vereinsereignissen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0123",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0120",
+       "text": "Gestartet ist das Jahr 2024 Mitte März mit dem",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0121",
+       "text": " Fächerstadt Open",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0122",
+       "text": " in Karlsruhe. Bei diesem starken Event des Nachbarvereins ASV Grötzingen sind XX Mitglieder der Schwerathletik Mannheim angetreten und haben den Verein bestens repräsentiert. Auf Grund der Nähe des Wettkampfs kamen einige Mitglieder zum zuschauen und supporten vorbei. Dabei wurden folgende Ergebnisse erzielt:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0125",
+     "headers": [
+      "Name/ Geschlecht",
+      "Gewichtsklasse",
+      "Total",
+      "Kniebeuge",
+      "Bankdrücken",
+      "Kreuzheben"
+     ],
+     "rows": [
+      [
+       "Gartmann, Emma (w)",
+       "– 57 Kg",
+       "335",
+       "135",
+       "65",
+       "135"
+      ],
+      [
+       "Binder, Bianca (w)",
+       "– 69 Kg",
+       "305",
+       "117,5",
+       "50",
+       "137,5"
+      ],
+      [
+       "Iskra, Krystian (m)\nJunior",
+       "-93 Kg",
+       "615",
+       "215",
+       "160",
+       "240"
+      ],
+      [
+       "Demleitner, Sebastian (m)",
+       "-83 Kg",
+       "485",
+       "170",
+       "122,5",
+       "192,5"
+      ],
+      [
+       "Glas, Michael (m)",
+       "-83 Kg",
+       "465",
+       "172,5",
+       "100",
+       "192,5"
+      ],
+      [
+       "McCall, Aaren (m)",
+       "– 105 KG",
+       "710",
+       "275",
+       "160",
+       "275"
+      ],
+      [
+       "Oswald, Simon (m)",
+       "– 105 Kg",
+       "682,5",
+       "245",
+       "147,5",
+       "290"
+      ],
+      [
+       "Soylar, Dennis (m)",
+       "– 105 Kg",
+       "495",
+       "160",
+       "120",
+       "215"
+      ],
+      [
+       "Weidner, Marcel (m)",
+       "– 120 Kg",
+       "725",
+       "275",
+       "185",
+       "265"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-602",
+   "title": "11.2023 – Deutsche Meisterschaft Jugend & Junioren, Chemnitz",
+   "slug": "11-2023-deutsche-meisterschaft-jugend-junioren-chemnitz",
+   "date": "2023-11-30",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "Nach der Neuordnung der Qualifikationsnormen haben sich sechs Mitglieder des Vereins bei der DM anmelden können. Drei Männer und drei Frauen aus…",
+   "cover": {
+    "path": "/img/gym/gym-09.jpg",
+    "alt": "11.2023 – Deutsche Meisterschaft Jugend & Junioren, Chemnitz",
+    "mediaId": 266,
+    "width": 1000,
+    "height": 667
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0133",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0132",
+       "text": "Nach der Neuordnung der Qualifikationsnormen haben sich sechs Mitglieder des Vereins bei der DM anmelden können. Drei Männer und drei Frauen aus unserem Verein holten zusammen drei Silbermedaillen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0136",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0135",
+       "text": "Vielen Dank an den Chemnitzer Verein für die Ausrichtung!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0139",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0138",
+       "text": "Ergebnisse der Frauen",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0142",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0141",
+       "text": "Klasse -63 Kg: Sina mit 325 Kg Total\nKlasse – 69 Kg: Sophia mit 367,5 Kg auf Platz Zwei\nKlasse -76 Kg: Erza mit 352,5 Kg Total",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0145",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0144",
+       "text": "Ergebnisse der Männer",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0148",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0147",
+       "text": "Klasse -83 Kg: Dennis W. mit 697,5 Kg für die Silbermedaille\nKlasse -93 Kg: Lukas mit 637,5 Kg\nKlasse -105 Kg: Ege mit 575 erreichte Silber (Jugend)",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-600",
+   "title": "11.-12.11.2023 – Landesmeisterschaft KDK, Aktive",
+   "slug": "11-12-11-2023-landesmeisterschaft-kdk-aktive",
+   "date": "2023-11-12",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "in Fellbach Mitte November ging es für 30 Starter aus unserem Verein zur Landesmeisterschaft in Fellbach, ausgerichtet durch den dortigen Verein SV Fellbach. Insgesamt erzielte…",
+   "cover": {
+    "path": "/img/news/dmaktive22-hannes.jpg",
+    "alt": "11.-12.11.2023 – Landesmeisterschaft KDK, Aktive",
+    "mediaId": 473,
+    "width": 1280,
+    "height": 1280
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0153",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0152",
+       "text": "11.-12.11.2023 – Landesmeisterschaft KDK, Aktive in Fellbach",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0156",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0155",
+       "text": "Mitte November ging es für 30 Starter aus unserem Verein zur Landesmeisterschaft in Fellbach, ausgerichtet durch den dortigen Verein SV Fellbach. Insgesamt erzielte der Verein eine gute Bilanz mit 11 Medaillen und dem größten Starterfeld eines Vereins. Die Medaillen teilen sich auf in 5x Gold, 4x Silber und 2x Bronze.\nZusätzlich waren einige Mitglieder als Kampfrichter vor Ort tätig.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0159",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0158",
+       "text": "Ergebnisse der Frauen",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0204",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0205",
+       "text": "Klasse -57kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0207",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0206",
+       "text": "Veronika Schulze: 160,5/93/162,5 – 416 Total, 1. Platz 🥇\nAnne Reinhardt: 100/52,5/120 – 272,5 Total, 5. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0208",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0209",
+       "text": "Klasse -63kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0211",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0210",
+       "text": "Mareike Gomer: 135/85/172,5 – 392,5 Total, 1. Platz 🥇\nJanina Ziegler: 135/77,5/172,5 – 385 Total, 2. Platz 🥈\nSophie Hoffmeyer: 97,5/50/125 – 272,5 Total, 6. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0212",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0213",
+       "text": "Klasse -69kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0215",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0214",
+       "text": "Julia Renkel: 165/87,5/165 – 417,5 Total, 2. Platz 🥈\nBianca Binder: 112,5/55/130 – 297,5 Total, 8. Platz\nPargol Delshad: 107,5/55/120 – 282,5 Total, 9. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0216",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0217",
+       "text": "Klasse -76kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0219",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0218",
+       "text": "Kira Stett: 117,5/67,5/135 – 320 Total, 6. Platz\nNora Montenegro: 120/65/125 – 310 Total, 8. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0220",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0221",
+       "text": "Klasse +84kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0223",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0222",
+       "text": "Anna Maier: 142,5/90/142,5 – 375 Total, 2. Platz 🥈\nLena Geppert: 152,5/72,5/145 – 370 Total, 3. Platz 🥉",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0182",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0181",
+       "text": "Ergebnisse der Männer",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0224",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0225",
+       "text": "Klasse -83kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0227",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0226",
+       "text": "Lucas Gräbner: 235/147,5/240 – 635 Total, 1. Platz 🥇\nFabian Wolff: 180/132,5/230 – 542,5 Total, 7. Platz\nKevin Brocker: 190/120/225 – 535 Total, 10. Platz\nMichael Glas: 165/90/182,5 – 437,5 Total, 18. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0228",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0229",
+       "text": "Klasse -93kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0231",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0230",
+       "text": "Roy Lotzwik: 265/172,5/282,5 – 720 Total, 2. Platz 🥈\nSven Mitländer: 222,5/145/255 – 622,5 Total, 8. Platz\nKeven Reinfrank: 215/140/245 – 600 Total, 11. Platz\nLukas Pieroth: 172,5/117,5/200 – 490 Total, 21. Platz\nAlexander Frank: 172,5/132,5/165 – 470 Total, 22. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0232",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0233",
+       "text": "Klasse -105kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0235",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0234",
+       "text": "Hannes Hahn: 270/172,5/317,5 – 760 Total, 2. Platz 🥈\nMarcel Weidner: 260/185/275 – 720 Total, 6. Platz\nMaximilian Bührer: 235/201/240 – 676 Total, 8. Platz\nAaren McCall: 265/155/250 – 670 Total,10. Platz\nHannes Spittel: 225/142,5/255 – 622,5 Total, 14. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0236",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0237",
+       "text": "Klasse -120kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0239",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0238",
+       "text": "Benedikt Rhomberg-Kauert: 245/155/318 – 718 Total, 1. Platz 🥇\nFabian Werner: 190/127,5/237,5 – 555 Total, 6. Platz\nDominik Weber: 200/117,5/232,5 – 550 Total, 7. Platz\n",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0240",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0241",
+       "text": "Klasse +120kg:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0243",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0242",
+       "text": "Gregor Loosen: 270/170/300 – 740 Total, 3. Platz 🥉",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-598",
+   "title": "27.-29.10. 2023 – Deutsche Meisterschaft im Bankdrücken",
+   "slug": "27-29-10-2023-deutsche-meisterschaft-im-bankdrucken",
+   "date": "2023-10-29",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "In Landshut fand am letzten Oktoberwochenende die DM im Bankdrücken statt. Unser Bank Spezialist und Kaderathlet Max B. startete bei den Männern -105…",
+   "cover": {
+    "path": "/img/gym/gym-47.jpg",
+    "alt": "27.-29.10. 2023 – Deutsche Meisterschaft im Bankdrücken",
+    "mediaId": 228,
+    "width": 1000,
+    "height": 667
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0249",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0248",
+       "text": "In Landshut fand am letzten Oktoberwochenende die DM im Bankdrücken statt. Unser Bank Spezialist und Kaderathlet Max B. startete bei den Männern -105 Kg.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0252",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0251",
+       "text": "Mit 197,5 Kg kratzte er knapp an den 200 Kg auf der Bank und erzielte den dritten Platz.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0255",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0254",
+       "text": "Herzlichen Glückwunsch zu Bronze!",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-596",
+   "title": "12.08.2023 – Walter-Engel Turnier – Ladenburg – Gewichtheben",
+   "slug": "12-08-2023-walter-engel-turnier-ladenburg-gewichtheben",
+   "date": "2023-08-12",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "Im August fand traditionell das Walter-Engel Turnier des ASV Ladenburg statt. Die Gewichthebe-Abteilung war mit drei Athleten an den Start gegangen. Zwei…",
+   "cover": {
+    "path": "/img/gym/gym-21.jpg",
+    "alt": "12.08.2023 – Walter-Engel Turnier – Ladenburg – Gewichtheben",
+    "mediaId": 254,
+    "width": 1000,
+    "height": 667
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0262",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0261",
+       "text": "Im August fand traditionell das Walter-Engel Turnier des ASV Ladenburg statt. Die Gewichthebe-Abteilung war mit drei Athleten an den Start gegangen. Zwei Athletinnen hatten hierbei ihren ersten Start an einem offiziellen Gewichthebe Wettkampf und wurden grandios von unserem Trainer Stani betreut. Dieser trat ebenfalls selbst an.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0265",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0264",
+       "text": "Anne konnte sich den ersten Platz holen mit 30 Kg im Reißen und 56 Kg im Stoßen, bei den Frauen -55 Kg. Achtung: Im Gewichtheben gibt es andere Gewichtsklassen als beim KDK.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0268",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0267",
+       "text": "Nina trat bei den Frauen -87 Kg an. Sie erzielte ebenfalls Gold mit 43 Kg im Reißen und 54 Kg im Stoßen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0271",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0270",
+       "text": "Stani brach den Wettkampf nach dem Reißen ab, da die Trainingsstätte auf Grund eines Unwetters überflutet wurde. Die Drei halfen nach dem Wettkampf fleißig beim retten unserer eigenen Trainingshalle.",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-594",
+   "title": "18.06.2023 – Landesmeisterschaft Bankdrücken & Kreuzheben",
+   "slug": "18-06-2023-landesmeisterschaft-bankdrucken-kreuzheben",
+   "date": "2023-06-18",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "in Weinheim Im Juni veranstaltete der “Nachbarverein” AC Weinheim die LM im Bankdrücken und Kreuzheben. Aus dem Schwerathletik Mannheim Team nahmen sechs Mitglieder teil.…",
+   "cover": {
+    "path": "/img/gym/gym-31.jpg",
+    "alt": "18.06.2023 – Landesmeisterschaft Bankdrücken & Kreuzheben",
+    "mediaId": 244,
+    "width": 1000,
+    "height": 667
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0275",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0274",
+       "text": "18.06.2023 – Landesmeisterschaft Bankdrücken & Kreuzheben in Weinheim",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0278",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0277",
+       "text": "Im Juni veranstaltete der “Nachbarverein” AC Weinheim die LM im Bankdrücken und Kreuzheben. Aus dem Schwerathletik Mannheim Team nahmen sechs Mitglieder teil. Mit den Teilnehmern sicherten wir uns 10 Medaillen, alle waren jeweils erfolgreich in den Klassen und Disziplinen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0281",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0280",
+       "text": "Ergebnisse",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0284",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0283",
+       "text": "Klasse -74er Junior: Jonas K. erzielte mit 112,5 Kg den zweiten Platz – Silber\nKlasse -83 Kg Junior: Sebastian gewann mit 107,5 Kg auf der Bank und 187,5 Kg im Heben seine Klasse. 2x Gold!\nKlasse -83 Kg: Kevin holte mit 125 Kg auf der Bank und 220 Kg im Heben zwei Silbermedaillen\nKlasse -93 Kg: Max B. sicherte sich mit 175 Kg und 220 Kg 2x Gold\nKlasse -105 Kg: Simon drückte 155 Kg für Platz Drei und sicherte sich die Goldmedaille im Heben mit 285 Kg\nKlasse +120 Kg: Jonas M hob mit 300 Kg Gold",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-592",
+   "title": "11.06.2023 – Nordbadencup in Mannheim",
+   "slug": "11-06-2023-nordbadencup-in-mannheim",
+   "date": "2023-06-11",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "Der erste eigene Wettkampf. Die erste komplette Wettkampfausrichtung in den eigenen, heiligen Hallen. Am 11.06.2023 fand der Nordbadencup als Bezirksmeisterschaft statt. Alles in allem ist…",
+   "cover": {
+    "path": "/img/gym/gym-62.jpg",
+    "alt": "11.06.2023 – Nordbadencup in Mannheim",
+    "mediaId": 212,
+    "width": 2560,
+    "height": 1707
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0291",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0290",
+       "text": "Der erste eigene Wettkampf. Die erste komplette Wettkampfausrichtung in den eigenen, heiligen Hallen. Am 11.06.2023 fand der Nordbadencup als Bezirksmeisterschaft statt. Alles in allem ist der Verein sehr zufrieden mit dem Ergebnis und hat ebenso offene Punkte für Verbesserungen mitgenommen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0294",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0293",
+       "text": "Aus dem eigenen Verein gingen fünf Mitglieder an den Start, darunter vier Frauen sowie Ege für unsere B-Jugend in der -105er Klasse.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0297",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0296",
+       "text": "Ergebnisse",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0300",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0299",
+       "text": "Klasse -57 Kg: Anne mit 267,5 Kg Total\nKlasse -69 Kg: Bianca mit 287,5 Kg Total\nKlasse -76 Kg – Junioren: Viki mit 315 Kg Total\nKlasse +84 Kg – Junioren: Nina mit 345 Kg Total\nKlasse -105 Kg – B-Jugend: Ege mit 530 Kg Total",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-588",
+   "title": "13.-14.05.2023 – Three Nations Powerlifting Open in Bayreuth",
+   "slug": "13-14-05-2023-three-nations-powerlifting-open-in-bayreuth",
+   "date": "2023-05-14",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "Bei dem Wettkampf von Dedicated Sports waren wir mit sieben Athleten vertreten. Viki holte sich mit einem schönen Wettkampf 312,5 kg Total…",
+   "cover": null,
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0308",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0307",
+       "text": "Bei dem Wettkampf von Dedicated Sports waren wir mit sieben Athleten vertreten.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0311",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0310",
+       "text": " Viki holte sich mit einem schönen Wettkampf 312,5 kg Total und belegte damit den 6. Platz in der Klasse -72 kg. Für Alex gab es in der Klasse -85 kg mit 617,5 kg Total die Silbermedaille. In der -94 kg-Klasse belegte Sven mit 617,5 kg den 4. Platz, Kevin erreichte mit 590 kg Platz 8.\nSimon holte sich mit 680 kg Total die Silbermedaille der 105er, Janosch belegte in der gleichen Klasse mit 585 kg Platz 13. In der Klasse +120 kg vertrat uns Jonas mit 715 kg Total und sicherte sich damit den Klassensieg.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0314",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0313",
+       "text": "Herzlichen Glückwunsch an die Athleten und Danke an die Ausrichter für den erstklassigen Wettkampf mit bester Stimmung vor Ort!",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-584",
+   "title": "14.-16.04.2023 – DM KDK Aktive in Karlsruhe",
+   "slug": "14-16-04-2023-dm-kdk-aktive-in-karlsruhe",
+   "date": "2023-04-16",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "Vom 14. bis 16. April richteten wir in Kooperation mit dem ASV Grötzingen unseren ersten offiziellen Wettkampf aus. Die deutsche Meisterschaft der Aktiven!…",
+   "cover": null,
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0321",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0320",
+       "text": "Vom 14. bis 16. April richteten wir in Kooperation mit dem ASV Grötzingen unseren ersten offiziellen Wettkampf aus. Die deutsche Meisterschaft der Aktiven! Vor Ort in Karlsruhe als Gastgebender Verein.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0324",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0323",
+       "text": "Ein Event, dass in recht kurzer Zeit geplant und finalisiert wurde. Rund 200 Athleten haben ihr Können auf der Plattform bewiesen. Darunter acht Starter der Schwerathletik Mannheim in verschiedenen Klassen der Männer und Frauen",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0327",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0326",
+       "text": "Die Teilnehmerplätze wurden durch eine Normenumgestaltung vom BVDK reduziert und die zu erbringenden Vorleistungen erhöht. Den Zuschauern bot sich ein spannender Wettkampf auf hohem sportlichen Niveau.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0330",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0329",
+       "text": "Den ersten offiziellen Wettkampf in Kooperation mit einem erfahrenen Verein zu stemmen war eine gute Option, die wir gerne ergriffen haben. Im Nachhinein betrachtet war das Event für uns ein voller Erfolg, auf den wir gerne in unserer Vereinsgeschichte sowie weiterhin in Zusammenarbeit mit dem ASV Grötzingen aufbauen wollen. ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0333",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0332",
+       "text": "Vielen Dank an den ASV für ihren Einsatz, die Location und unzähligen Planungsstunden. Danke an alle Athleten und Zuschauer, die mitgefiebert und angefeuert haben. Danke an all die fleißigen ehrenamtlichen Helfer ohne die eine solche Veranstaltung nicht möglich ist! ♥",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0337",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0336",
+       "text": "Zu den Ergebnissen der Männer und Frauen: ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0340",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0339",
+       "text": "Klasse -63 Kg: 6. Platz Rebecca Winkler, 5. Platz Janina Ziegler, 2. Platz Veronika Schulze\nKlasse -69 Kg: 9. Platz Julia Renkel\nKlasse -76 Kg: 14. Platz Verena Fuhrmann",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0343",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0342",
+       "text": "Klasse -83 Kg: 12. Platz Lucas Gräbner\nKlasse -105 Kg: 22. Platz Marcel Weidner\nKlasse -120 Kg: 11. Platz Gregor Loosen",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-581",
+   "title": "01.04.2023 Landesmeisterschaft Jugend & Junioren in Fellbach",
+   "slug": "01-04-2023-landesmeisterschaft-jugend-junioren-in-fellbach",
+   "date": "2023-04-01",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "Am 01. April fand die Landesmeisterschaft für unsere Junioren in Fellbach statt.Der gut ausgerichtete Wettkampf wurde von insgesamt 12 Startern der Schwerathletik Mannheim…",
+   "cover": null,
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0351",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0350",
+       "text": "Am 01. April fand die Landesmeisterschaft für unsere Junioren in Fellbach statt.\nDer gut ausgerichtete Wettkampf wurde von insgesamt 12 Startern der Schwerathletik Mannheim besucht. Die Ergebnisse aller und vieler Erststarter können sich sehen lassen.\n\nDrei Klassensiege gingen an unseren Verein, fünf weitere Topplatzierte und weitere gute Platzierungen. \nFür viele ist damit der Einstieg in den Wettkampfsport bestens gelungen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0354",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0353",
+       "text": "Ergebnisse",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0357",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0356",
+       "text": "Klasse -63 Kg: 3. Platz für Kim\nKlasse -69 Kg: 4. Platz Michelle, 2. Platz Erza, 1. Platz Sina\nKlasse -76 Kg: 2. Platz Viktoria",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0360",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0359",
+       "text": "Klasse – 74 Kg: 3. Platz für David\nKlasse -83 Kg: 7. Platz für Jonas, 6. Platz Joshua, 5. Platz Baran, 2. Platz Lukas E., 1. Platz Dennis\nKlasse -105 Kg: 1. Platz für Ruben L.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0363",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0362",
+       "text": "Tolle Leistung und herzlichen Glückwunsch an alle Athleten. ",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-575",
+   "title": "12.02.2023 Bezirksmeisterschaft Bankdrücken Weinheim",
+   "slug": "12-02-2023-bezirksmeisterschaft-bankdrucken-weinheim",
+   "date": "2023-02-12",
+   "year": 2023,
+   "showDate": true,
+   "excerpt": "Die Wettkampfsaison für unseren Verein wurde dieses Jahr mit der offenen Bezirksmeisterschaft im Bankdrücken in Weinheim am 12.02.2023 eingeläutet. Wir waren dort mit fünf unserer Athleten…",
+   "cover": null,
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0370",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0369",
+       "text": "Die Wettkampfsaison für unseren Verein wurde dieses Jahr mit der offenen Bezirksmeisterschaft im Bankdrücken in Weinheim am 12.02.2023 eingeläutet. \n\nWir waren dort mit fünf unserer Athleten vertreten.\nUnsere Juniorin Viktoria Eidenmüller startete in -76kg Klasse und konnte dort mit starken 80kg den 1. Platz erzielen.\nEbenfalls startete Lukas Eisinger in der -93kg Juniorenklasse.\nIn der -93er Klasse drückte Sven Mittländer starke 145kg und erreichte damit den 1. Platz – Herzlichen Glückwunsch!\nKevin Reinfrank konnte sich die silberne Medaille mit 132,5kg erdrücken – ebenfalls Congratulaions!\nJonas Maier hat auf der Bank in der +120kg Klasse 170kg gedrückt und damit den zweiten Platz erreicht.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0374",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0373",
+       "text": "Das war ein gelungen Start in die Wettkampfsaison für unseren Verein und wir sind stolz auf unsere Athleten und deren Ergebnisse. ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0377",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0376",
+       "text": "Wir freuen uns auf die kommenden Wettkämpfe mit euch!",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-492",
+   "title": "11.–13.11.2022 – LM KDK AKTIVE IN KARLSRUHE",
+   "slug": "11-13-11-2022-lm-kdk-aktive-in-karlsruhe",
+   "date": "2022-11-13",
+   "year": 2022,
+   "showDate": true,
+   "excerpt": "Anfang November fand die Landesmeisterschaft im Kraftdreikampf in Grötzingen bei Karlsruhe statt – ausgetragen vom ASV 04 Grötzingen e.V. Unser Verein startete mit…",
+   "cover": {
+    "path": "/img/news/lmbw22-janina-bianca-vero-rebecca.jpg",
+    "alt": "11.–13.11.2022 – LM KDK AKTIVE IN KARLSRUHE",
+    "mediaId": 497,
+    "width": 1280,
+    "height": 1280
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0384",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0383",
+       "text": "Anfang November fand die Landesmeisterschaft im Kraftdreikampf in Grötzingen bei Karlsruhe statt – ausgetragen vom ASV 04 Grötzingen e.V.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0386",
+     "path": "/img/news/lmbw22-gruppe.jpg",
+     "mediaId": 504,
+     "alt": "",
+     "width": 1280,
+     "height": 954
+    },
+    {
+     "_type": "block",
+     "_key": "b0389",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0388",
+       "text": "Unser Verein startete mit unglaublich 21 Athleten und Athletinnen an allen drei Wettkampftagen und war somit in jeder Gewichtsklasse vertreten. Darunter feierten sechs Athleten und Athletinnen ihr Wettkampfdebut.\nZusätzlich waren noch einige unserer Mitglieder als Support, Kampfrichter und Stecker vor Ort.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0391",
+     "path": "/img/news/lmbw22-michi.jpg",
+     "mediaId": 493,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0393",
+     "path": "/img/news/lmbw22-jonas-gregor.jpg",
+     "mediaId": 495,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0395",
+     "path": "/img/news/lmbw22-lukas-benjamin-vasilis-sven-tim.jpg",
+     "mediaId": 494,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "block",
+     "_key": "b0398",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0397",
+       "text": "Den Anfang machten die Männer am Freitagvormittag in der -74er, -120kg und +120kg Klasse. Freitagnachmittag starteten fünf unser Athleten in der -93kg Klasse.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0401",
+     "path": "/img/news/lmbw22-anne.jpg",
+     "mediaId": 496,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0403",
+     "path": "/img/news/lmbw22-janina-bianca-vero-rebecca.jpg",
+     "mediaId": 497,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0405",
+     "path": "/img/news/lmbw22-nathalie.jpg",
+     "mediaId": 498,
+     "alt": "",
+     "width": 1224,
+     "height": 1224
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0407",
+     "path": "/img/news/lmbw22-verena-julia.jpg",
+     "mediaId": 499,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0409",
+     "path": "/img/news/lmbw22-lucas-bjorn.jpg",
+     "mediaId": 500,
+     "alt": "",
+     "width": 1280,
+     "height": 719
+    },
+    {
+     "_type": "block",
+     "_key": "b0412",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0411",
+       "text": "Am zweiten Tag in Grötzingen machten drei unserer Damen aus der -57kg und -76kg Klasse den Anfang.\nIn der -63kg Klasse starteten vier unserer Athletinnen und am späten Abenden ging unsere Athletin in der -69kg Klasse und zwei unserer Männer in der -83kg Klasse auf die Plattform.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0415",
+     "path": "/img/news/lmbw22-roy.jpg",
+     "mediaId": 501,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0417",
+     "path": "/img/news/lmbw22-marcel.jpg",
+     "mediaId": 502,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0419",
+     "path": "/img/news/lmbw22-manuel.jpg",
+     "mediaId": 503,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "block",
+     "_key": "b0422",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0421",
+       "text": "Den Abschluss machten am Sonntag unsere drei Athleten in -105kg Klasse, welche gebührend mit der Entchen Krawatte geehrt wurden!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0425",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0424",
+       "text": "Wir konnten viele Bestleistungen, Erfahrungen und eine Menge Erinnerungen mitnehmen. Gratulation an all unsere Athleten die sich durch die anstrengenden und langen Tage gekämpft haben. Ein herzliches Dankeschön geht auch an unsere Mitglieder, welche als Supporter, Kampfrichter und Stecker den ASV 04 unterstützt haben.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0428",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0427",
+       "text": "Unsere Mitglieder konnten einige Medaillen mit nach Hause nehmen, worauf wir als Verein natürlich unheimlich stolz sind- starke Leistung!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0431",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0430",
+       "text": "Wir freuen uns schon auf den nächsten Wettkampf! (BB)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0434",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0433",
+       "text": "ERGEBNISSE FREITAG:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0437",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0436",
+       "text": "Klasse -74 Kg: 3. Platz für Michael Glas\nKlasse -93 Kg: 17.Platz Lukas Pieroth, 16. Platz Benjamin Krieg, 10. Platz Vasilis Tzalis, 8. Platz Sven Mitländer, 4. Platz Tim Thum\nKlasse -120 Kg: 1. Platz Gregor Loosen\nKlasse +120 Kg: 2. Platz Jonas Meyer",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0441",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0440",
+       "text": "ERGEBNISSE SAMSTAG:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0444",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0443",
+       "text": "Klasse -57 Kg: 4. Platz Anne Reinhardt\nKlasse -63Kg: 6. Platz Bianca Binder, 3. Platz Janina Ziegler, 2. Platz Rebecca Winkler, 1. Platz Veronika Schulze\nKlasse -69 Kg: 1. Platz Nathalie Raichle-Bay\nKlasse – 76 Kg: 3. Platz Verena Fuhrmann, 2. Platz Julia Renkel\nKlasse -83 Kg: 3. Platz Björn und 2. Platz Lucas",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0448",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0447",
+       "text": "ERGEBNISSE SONNTAG:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0451",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0450",
+       "text": "Klasse -105 Kg: 13. Platz Roy Lotzwik, 11. Platz Manuel Siebert, 3. Platz Marcel Weidner",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-486",
+   "title": "16.–18.09.2022 – JUNIOREN DM KDK IN WÜRZBURG",
+   "slug": "16-18-09-2022-junioren-dm-kdk-in-wurzburg",
+   "date": "2022-09-18",
+   "year": 2022,
+   "showDate": true,
+   "excerpt": "Auch für drei unserer Junioren ging es dieses Jahr auf die deutsche Meisterschaft. Ausrichter, wie letztes Jahr, war Powerlifting Würzburg e.V. Den Anfang…",
+   "cover": {
+    "path": "/img/news/dmjunioren22-gruppe.jpg",
+    "alt": "16.–18.09.2022 – JUNIOREN DM KDK IN WÜRZBURG",
+    "mediaId": 490,
+    "width": 962,
+    "height": 831
+   },
+   "body": [
+    {
+     "_type": "imageBlock",
+     "_key": "i0458",
+     "path": "/img/news/dmjunioren22-gruppe.jpg",
+     "mediaId": 490,
+     "alt": "",
+     "width": 962,
+     "height": 831
+    },
+    {
+     "_type": "block",
+     "_key": "b0461",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0460",
+       "text": "Auch für drei unserer Junioren ging es dieses Jahr auf die deutsche Meisterschaft. Ausrichter, wie letztes Jahr, war Powerlifting Würzburg e.V.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0464",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0463",
+       "text": "Den Anfang machte Dennis am Samstagvormittag in der Klasse -83 Kg – mit 605 Kg Total belegte er einen sehr starken 5. Platz! Sonntagabend starteten Ruben (-105 Kg) und Benedikt (-120 Kg). Ruben sicherte sich mit 620 Kg den 10. Platz, Benedikt schaffte es mit 672,5 Kg auf den 5. Platz.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0467",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0466",
+       "text": "Wir sind stolz auf alle Athleten und gratulieren zu den super Leistungen! Wie üblich gab es ein Vor-Ort-Anfeuer-Team.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0470",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0469",
+       "text": "Einen herzlichen Dank an dieser Stelle an Powerlifting Würzburg e.V. für die Ausrichtung des Wettkampfs! (SO)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0472",
+     "path": "/img/news/dmjunioren22-dennis.jpg",
+     "mediaId": 489,
+     "alt": "",
+     "width": 1280,
+     "height": 1291,
+     "caption": "Dennis Witz"
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0474",
+     "path": "/img/news/dmjunioren22-ruben.jpg",
+     "mediaId": 488,
+     "alt": "",
+     "width": 769,
+     "height": 777,
+     "caption": "Ruben Lohberg"
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0476",
+     "path": "/img/news/dmjunioren22-bene.jpg",
+     "mediaId": 487,
+     "alt": "",
+     "width": 692,
+     "height": 692,
+     "caption": "Benedikt Rhomberg-Kauert"
+    }
+   ]
+  },
+  {
+   "_id": "post-469",
+   "title": "19.08. – 21.08.2022 – DM KDK AKTIVE IN ERFURT",
+   "slug": "19-08-21-08-2022-dm-kdk-aktive-in-erfurt",
+   "date": "2022-08-19",
+   "year": 2022,
+   "showDate": true,
+   "excerpt": "Das Event mit den meisten Teilnehmern aus unserem Verein für dieses Jahr war die Deutsche Meisterschaft in Erfurt. Ausgerichtet vom Schwerathletik Verein Erfurt e. V., in höchster Professionalität. Danke für…",
+   "cover": {
+    "path": "/img/news/dmaktive22-simon.jpg",
+    "alt": "19.08. – 21.08.2022 – DM KDK AKTIVE IN ERFURT",
+    "mediaId": 471,
+    "width": 1280,
+    "height": 1280
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0481",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0480",
+       "text": "Das Event mit den meisten Teilnehmern aus unserem Verein für dieses Jahr war die Deutsche Meisterschaft in Erfurt. Ausgerichtet vom Schwerathletik Verein Erfurt e. V., in höchster Professionalität. Danke für den super organisierten, riesigen Wettkampf!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0484",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0483",
+       "text": "Wir sind mit 13 Athleten über die drei Wettkampftage angetreten. Zusätzlich waren noch einige Mitglieder zum Support vor Ort. Als Betreuer, Zuschauer, zum Spotten und Stecken und auch als Karis waren wir vertreten! Die Präsenz war enorm und fiel positiv auf.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0486",
+     "path": "/img/news/dmaktive22-gruppe.jpg",
+     "mediaId": 480,
+     "alt": "",
+     "width": 1280,
+     "height": 719
+    },
+    {
+     "_type": "block",
+     "_key": "b0489",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0488",
+       "text": "Am Freitag gingen wir mit zwei Athletinnen in der -69 Kg Klasse und jeweils einem Starter in der -83 Kg und >120 Kg Klasse an den Start. Samstag starteten fünf Athleten. Drei unserer Männer in der -93 Kg Klasse sowie jeweils ein Athlet in der -105 Kg und -120 Kg Klasse. Ebenso waren wir am Sonntag mit vier weiteren Athletinnen am Start. Drei unserer Damen starteten in der -63 Kg Klasse und eine in der -76 Kg. ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0491",
+     "path": "/img/news/dmaktive22-sven.jpg",
+     "mediaId": 472,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0493",
+     "path": "/img/news/dmaktive22-hannes.jpg",
+     "mediaId": 473,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0495",
+     "path": "/img/news/dmaktive22-gregor.jpg",
+     "mediaId": 475,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0497",
+     "path": "/img/news/dmaktive22-jonas.jpg",
+     "mediaId": 476,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0499",
+     "path": "/img/news/dmaktive22-bjorn.jpg",
+     "mediaId": 477,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0501",
+     "path": "/img/news/dmaktive22-julia.jpg",
+     "mediaId": 478,
+     "alt": "",
+     "width": 683,
+     "height": 683
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0503",
+     "path": "/img/news/dmaktive22-jana.jpg",
+     "mediaId": 479,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0505",
+     "path": "/img/news/dmaktive22-verena.jpg",
+     "mediaId": 481,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0507",
+     "path": "/img/news/dmaktive22-janina.jpg",
+     "mediaId": 482,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0509",
+     "path": "/img/news/dmaktive22-rebecca.jpg",
+     "mediaId": 484,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0511",
+     "path": "/img/news/dmaktive22-simon.jpg",
+     "mediaId": 471,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0513",
+     "path": "/img/news/dm-aktive-2022-support-68.jpg",
+     "mediaId": 470,
+     "alt": "",
+     "width": 1157,
+     "height": 1157
+    },
+    {
+     "_type": "block",
+     "_key": "b0516",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0515",
+       "text": "Wir konnten viele Bestleistungen, Erfahrungen und eine Menge Erinnerungen mitnehmen. Gratulation an all unsere Athleten die sich durch die anstrengenden und langen Tage gekämpft haben!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0519",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0518",
+       "text": "Zwei Vizemeister gingen an unseren Verein:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0521",
+     "path": "/img/news/dmaktive22-vero.jpeg",
+     "mediaId": 483,
+     "alt": "",
+     "width": 863,
+     "height": 863,
+     "caption": "Mit 392,5 Kg Total wurde Vero Vizemeisterin bei den Damen -63 Kg."
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0523",
+     "path": "/img/news/dmaktive22-roy.jpg",
+     "mediaId": 474,
+     "alt": "",
+     "width": 1280,
+     "height": 1280,
+     "caption": "737,5 Kg Total sicherten Roy den Vizemeister Titel in der -93 Kg Klasse."
+    },
+    {
+     "_type": "block",
+     "_key": "b0526",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0525",
+       "text": "Auf weitere tolle Wettkampftage und starke Leistungen in den folgenden Meisterschaften! (SH)",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-464",
+   "title": "11.06.2022 – LM BADEN-WÜRTTEMBERG IM BANKDRÜCKEN & KREUZHEBEN IN LAUTENBACH",
+   "slug": "11-06-2022-lm-baden-wurttemberg-im-bankdrucken-kreuzheben-in-lautenbach",
+   "date": "2022-06-11",
+   "year": 2022,
+   "showDate": true,
+   "excerpt": "Anfang Juni war es dann schon wieder Zeit für den nächsten Wettkampf: die LM im Bankdrücken und Kreuzheben stand an.…",
+   "cover": {
+    "path": "/img/news/lm22-janina.jpg",
+    "alt": "11.06.2022 – LM BADEN-WÜRTTEMBERG IM BANKDRÜCKEN & KREUZHEBEN IN LAUTENBACH",
+    "mediaId": 467,
+    "width": 998,
+    "height": 998
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0533",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0532",
+       "text": "Anfang Juni war es dann schon wieder Zeit für den nächsten Wettkampf: die LM im Bankdrücken und Kreuzheben stand an.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0538",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0535",
+       "text": "Eingeladen hat der KSV Renchtal zu einem gut organisierten und grandiosen Wettkampf. Es wurden starke Leistungen gezeigt und zwei Athleten der Schwerathletik Mannheim gingen an den Start. Janina hat sich mit starken 175,5 Kg im Kreuzheben den ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0536",
+       "text": "Landesrekord ",
+       "marks": [
+        "em"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0537",
+       "text": "bei den Aktiven – 63 Kg geholt!\nWie üblich wurden die beiden Starter von einer kleinen Gruppe aus unserem Verein begleitet, um ordentlich anzufeuern. (SH)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0540",
+     "path": "/img/news/lm22-max.jpg",
+     "mediaId": 465,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0542",
+     "path": "/img/news/lm22-janina.jpg",
+     "mediaId": 467,
+     "alt": "",
+     "width": 998,
+     "height": 998
+    },
+    {
+     "_type": "block",
+     "_key": "b0545",
+     "style": "h4",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0544",
+       "text": "KAMPFRICHTER BEZIRKSLIZENZ",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0550",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0547",
+       "text": "Es wurde nicht nur Gewicht am Wochenende bewegt…\nEinen ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0548",
+       "text": "herzlichen Glückwunsch",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0549",
+       "text": " richten wir noch zur bestandenen Kampfrichter-Bezirkslizenz aus an: Björn (nicht auf dem Bild), Max, Julia, Ruben und Samira!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0552",
+     "path": "/img/news/lm22-kampfrichter-bezirkslizenz.jpg",
+     "mediaId": 466,
+     "alt": "",
+     "width": 1280,
+     "height": 719
+    },
+    {
+     "_type": "block",
+     "_key": "b0555",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0554",
+       "text": "Der Verein freut sich über die aktive Teilnahme sowie die bestandenen Lizenzen. Nicht nur die Förderung von aktiven Athleten sondern auch von Nachwuchskampfrichter liegt uns am Herzen.",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-457",
+   "title": "28.–29.05.2022 – BIG BULL FIGHT, KDK IN DAUBORN",
+   "slug": "28-29-05-2022-big-bull-fight-kdk-in-dauborn",
+   "date": "2022-05-29",
+   "year": 2022,
+   "showDate": true,
+   "excerpt": "Der zweite, wenn auch nicht BVDK relevante, Termin im Kalender diesen Jahres war klassisch der Big Bull Fight.Am Samstag starteten vier unserer…",
+   "cover": {
+    "path": "/img/news/bbf22-gruppe.jpg",
+    "alt": "28.–29.05.2022 – BIG BULL FIGHT, KDK IN DAUBORN",
+    "mediaId": 462,
+    "width": 1280,
+    "height": 719
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0562",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0561",
+       "text": "Der zweite, wenn auch nicht BVDK relevante, Termin im Kalender diesen Jahres war klassisch der Big Bull Fight.\nAm Samstag starteten vier unserer Mitglieder. In der Klasse der Männer -105 Kg starteten Janosch, Luca und Marcel. Janosch erreichte den 14. Platz mit 567,5 Kg, der 6. Platz ging an Marcel mit 675 Kg und Luca erreichte einen starken dritten Platz mit 705 Kg!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0564",
+     "path": "/img/news/bbf22-gruppe.jpg",
+     "mediaId": 462,
+     "alt": "",
+     "width": 1280,
+     "height": 719
+    },
+    {
+     "_type": "block",
+     "_key": "b0567",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0566",
+       "text": "Verena startete am nachmittag bei den -69 Kg Frauen und gewann mit 385 Kg Total ihre Klasse.\nWir sind stolz auf alle Athleten und gratulieren zu den super Leistungen. Großes Kompliment wieder an Dauborn Barbell für den top organisierten Wettkampf!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0569",
+     "path": "/img/news/bbf22-janosch.jpg",
+     "mediaId": 461,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0571",
+     "path": "/img/news/bbf22-luca.jpg",
+     "mediaId": 460,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0573",
+     "path": "/img/news/bbf22-marcel.jpg",
+     "mediaId": 459,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0575",
+     "path": "/img/news/bbf22-verena.jpg",
+     "mediaId": 458,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    }
+   ]
+  },
+  {
+   "_id": "post-451",
+   "title": "10.04.2022 – REBEN HEBEN, KDK IN FELLBACH",
+   "slug": "10-04-2022-reben-heben-kdk-in-fellbach",
+   "date": "2022-04-10",
+   "year": 2022,
+   "showDate": true,
+   "excerpt": "Frühling läßt sein blaues Band Wieder flattern durch die Lüfte… (Eduard Mörike 1829) Auch für unsere Athleten wurde es am 10. April Zeit,…",
+   "cover": {
+    "path": "/img/news/rebenheben-gruppe.jpg",
+    "alt": "10.04.2022 – REBEN HEBEN, KDK IN FELLBACH",
+    "mediaId": 455,
+    "width": 1280,
+    "height": 797
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0583",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0582",
+       "text": "Frühling läßt sein blaues Band",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0586",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0585",
+       "text": "Wieder flattern durch die Lüfte…",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0590",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0589",
+       "text": "(Eduard Mörike 1829)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0592",
+     "path": "/img/news/rebenheben-gruppe.jpg",
+     "mediaId": 455,
+     "alt": "",
+     "width": 1280,
+     "height": 797
+    },
+    {
+     "_type": "block",
+     "_key": "b0595",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0594",
+       "text": "Auch für unsere Athleten wurde es am 10. April Zeit, das Wettkampftrikot aus dem Schrank hervorzuholen, um in ein kraftvolles neues Jahr zu starten. Der SV Fellbach lud zum ersten Mal zum “Reben Heben” und bot den teilnehmenden Sportlern eine gut organisierte Möglichkeit die Normen für die diesjährigen deutschen Meisterschaften zu erzielen und neuen Bestleistungen nach dem Winter hinterher zu jagen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0598",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0597",
+       "text": "Für die Schwerathletik Mannheim gingen drei Sportler an den Start. David konnte sich über ein blitzsauberes Debüt auf der Wettkampfbühne freuen und sicherte sich direkt die Qualifikationsnorm für die deutsche Meisterschaft in seinem ersten Kraftdreikampf überhaupt.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0601",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0600",
+       "text": "Keven bewies Nervenstärke und Routine, nachdem sein Eröffnungsversuch in der Kniebeuge nicht gültig gewertet wurde und schloss den Wettkampf mit einer neuen Bestleistung ab.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0604",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0603",
+       "text": "Eine großartige Leistung zeigte dann zum Abschluss Luca und brachte mehr als solide 680kg in die Wertung, ein klasse Einstieg bei seinem ersten offiziellen Wettkampf. Wir freuen uns auf viele weitere starke Auftritte.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0607",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0606",
+       "text": "Einen starken Auftritt legten auch all diejenigen hin, die zur Unterstützung dabei waren. Kraftdreikampf ist zwar eine Individualsportart, jedoch sollte man nicht unterschätzen welchen Wert die Rückendeckung eines Teams bietet und wieviel Dinge dann doch zu beachten und zu erledigen sind auf einem Wettkampf – abgesehen vom bloßen Hochheben der Hantel. Noch nie musste ein Athlet der Schwerathletik Mannheim allein und ohne Unterstützung auf einen Wettkampf fahren und wir sind bestrebt diese Tradition beizubehalten.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0610",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0609",
+       "text": "Einen herzlichen Dank an dieser Stelle nochmal an den SV Fellbach zur gelungenen Eröffnung der Wettkampfsaison. (GL)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0612",
+     "path": "/img/news/rebenheben-david.jpg",
+     "mediaId": 454,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0614",
+     "path": "/img/news/rebenheben-kev.jpg",
+     "mediaId": 453,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0616",
+     "path": "/img/news/rebenheben-luca.jpg",
+     "mediaId": 452,
+     "alt": "",
+     "width": 1280,
+     "height": 1280
+    }
+   ]
+  },
+  {
+   "_id": "post-449",
+   "title": "26.03.2022 – JAHRESHAUPTVERSAMMLUNG",
+   "slug": "26-03-2022-jahreshauptversammlung",
+   "date": "2022-03-26",
+   "year": 2022,
+   "showDate": true,
+   "excerpt": "Im ersten Quartal des Jahres findet traditionell die Jahreshauptversammlung der Schwerathletik Mannheim statt. Was zunächst als lästiger administrativer Akt imponiert ist bei näherer Betrachtung ein entscheidendes Ereignis.…",
+   "cover": {
+    "path": "/img/gym/gym-56.jpg",
+    "alt": "26.03.2022 – JAHRESHAUPTVERSAMMLUNG",
+    "mediaId": 219,
+    "width": 667,
+    "height": 1000
+   },
+   "body": [
+    {
+     "_type": "imageBlock",
+     "_key": "i0622",
+     "path": "/img/news/unbenannt-1.jpg",
+     "mediaId": 100,
+     "alt": "",
+     "width": 2500,
+     "height": 250
+    },
+    {
+     "_type": "block",
+     "_key": "b0625",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0624",
+       "text": "Im ersten Quartal des Jahres findet traditionell die Jahreshauptversammlung der Schwerathletik Mannheim statt. Was zunächst als lästiger administrativer Akt imponiert ist bei näherer Betrachtung ein entscheidendes Ereignis.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0628",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0627",
+       "text": "Zunächst einmal bietet sich die Gelegenheit Informationen über das abgelaufene Geschäftsjahr zu erhalten, sowohl was Finanzen, Mitgliederzahlen aber auch angegangene Projekte angeht. Ein herausragendes Sinnbild für die Arbeit, welche im letzten Geschäftsjahr erfolgte, ist die Tatsache, dass die Mitgliederversammlung erstmalig in unseren eigenen Räumlichkeiten stattfinden konnte.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0631",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0630",
+       "text": "Somit bietet eine Jahresversammlung auch die Möglichkeit sich bei denjenigen zu bedanken, die den Einsatz gezeigt und die Arbeit geleistet haben, um den Verein weiterzuentwickeln und eben diese Veränderungen und das Wachstum zu erzielen. Vielen Dank an den Vorstand, erweiterten Vorstand aber auch Projektverantwortliche und viele andere Mitglieder die sich eingebracht haben. Ohne euch wären wir nicht dort, wo wir sind, und die Bilanz kann sich sehen lassen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0634",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0633",
+       "text": "Über weitere Pläne für die Zukunft zu diskutieren und neue Projekte in Angriff zu nehmen ist ebenso Teil der Zusammenkunft des Vereins. Hier können die Mitglieder maßgeblich und ganz grundsätzlich direkt an der Gestaltung und Ausrichtung des Vereinslebens mitwirken. Ein Verein ist ein sich ständig entwickelnder Organismus der gehegt und gepflegt werden muss um den Mitgliedern auch etwas zurückgeben zu können.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0637",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0636",
+       "text": "So ist die Jahreshauptversammlung schlussendlich eine Möglichkeit Verantwortung zu übernehmen. Verantwortung für bestimmte Aufgaben, die regelmäßig erledigt werden müssen, aber auch Verantwortung für neue Entwicklungen, Wachstum und Verbesserung. Die Schwerathletik Mannheim ist die Summe all ihrer Mitglieder und so freuen wir uns über bekannte und neue Gesichter, die uns in den kommenden zwölf Monaten begleiten werden.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0640",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0639",
+       "text": "Roy Lotzwik bleibt weiterhin erster Vorstand, Alex Grund übernimmt den zweiten Vorstand und auch Rebecca Winkler bleibt ihrem Amt als Kassiererin treu. Im erweiterten Vorstand übernimmt Sophie das Amt der Medienwärterin, Schlichtungsbeauftragter ist Keven und Kassenprüferin Julia. Die Abteilungsleitung KDK übernehmen Simon und Vero, Abteilung Gewichtheben wird ab sofort von Stani betreut. Der Freizeitsportbereich bleibt weiterhin bei Lukas.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0643",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0642",
+       "text": "In Verbindung mit unserer Jahreshauptversammlung fand die Mitgliederversammlung für den Bereich Schwerathletik bei unserem Partnerverein SKV Sandhofen statt. Wir freuen uns, dass man dort auf unsere Expertise baut, und so wurde die Abteilungsleitung durch Tim und Michi übernommen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0646",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0645",
+       "text": "Mitgliederversammlung bedeutet eben auch immer Aufbruch.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0649",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0648",
+       "text": "(GL & SH)",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0655",
+     "style": "normal",
+     "markDefs": [
+      {
+       "_key": "l0652",
+       "_type": "link",
+       "href": "https://schwerathletik-mannheim.de/kontakt/coaches-im-verein/"
+      }
+     ],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0651",
+       "text": "Bei Fragen an die einzelnen Abteilungen wende Dich bitte an den Vorstand oder direkt an die/ den jeweiligen der Abteilung. Die Mailadressen findest Du unter ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0653",
+       "text": "Kontakt",
+       "marks": [
+        "l0652"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0654",
+       "text": ".",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-429",
+   "title": "2021: Eröffnung der Trainingsstätte",
+   "slug": "2021-eroffnung-der-trainingsstatte",
+   "date": "2021-12-31",
+   "year": 2021,
+   "showDate": true,
+   "excerpt": "Im Dezember war es endlich soweit! Wir haben ein riesiges Projekt beenden können: Unsere Trainingsstätte. In Zusammenarbeit mit dem SKV Sandhofen betreiben und kümmern wir uns…",
+   "cover": {
+    "path": "/img/gym/gym-31.jpg",
+    "alt": "2021: Eröffnung der Trainingsstätte",
+    "mediaId": 244,
+    "width": 1000,
+    "height": 667
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0664",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0661",
+       "text": "Im Dezember war es endlich soweit! Wir haben ein riesiges Projekt beenden können: ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0662",
+       "text": "Unsere Trainingsstätte",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0663",
+       "text": ".",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0667",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0666",
+       "text": "In Zusammenarbeit mit dem SKV Sandhofen betreiben und kümmern wir uns um die Einrichtung, Pflege und alles andere der Trainingsstätte, in einer der Hallen des SKV.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0670",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0669",
+       "text": "Es gibt zwei Bereiche, geteilt in das SKV Fit und Schwerathletik Mannheim. Im SKV Fit stehen Maschinen, Kabelzüge und ein kleiner Freihantelbereich zur Verfügung. Der Bereich der Schwerathletik ist optimal für unsere Bedürfnisse ausgestattet mit Racks, Hebe Plattformen, einer Wettkampfbank, Flach- und Schrägbänke sowie ordentlich Gewicht.\nSanitärräume sind natürlich auch vorhanden.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0673",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0672",
+       "text": "Die Möglichkeit für lautes, intensives Training ist geschaffen und wird sehr gut von den Mitgliedern angenommen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0676",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0675",
+       "text": "Im Detail verfügen wir über folgendes Equipment:",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0680",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0679",
+       "text": "3 Racks",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0683",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0682",
+       "text": "1 Wettkampfbank",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0686",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0685",
+       "text": "jeweils 2 Flach- und Schrägbänke",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0689",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0688",
+       "text": "1 Kreuzhebeplattform",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0692",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0691",
+       "text": "2 Gewichthebeplattformen",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0695",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0694",
+       "text": "1 Reverse Hyperextension",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0698",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0697",
+       "text": "Langhanteln und Specialty Bars",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0701",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0700",
+       "text": "Bumper sowie kalibrierte Scheiben",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0704",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0703",
+       "text": "1 Sofa",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b0707",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0706",
+       "text": "es wird stetig mehr…",
+       "marks": []
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0710",
+     "path": "/img/gym/gym-14.jpg",
+     "mediaId": 261,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0712",
+     "path": "/img/gym/gym-16.jpg",
+     "mediaId": 259,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0714",
+     "path": "/img/gym/gym-18.jpg",
+     "mediaId": 257,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0716",
+     "path": "/img/gym/gym-30.jpg",
+     "mediaId": 245,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0718",
+     "path": "/img/gym/gym-39.jpg",
+     "mediaId": 236,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0720",
+     "path": "/img/gym/gym-36.jpg",
+     "mediaId": 239,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0722",
+     "path": "/img/gym/gym-35.jpg",
+     "mediaId": 240,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0724",
+     "path": "/img/gym/gym-47.jpg",
+     "mediaId": 228,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0726",
+     "path": "/img/gym/gym-51.jpg",
+     "mediaId": 224,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0728",
+     "path": "/img/gym/gym-54.jpg",
+     "mediaId": 221,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0730",
+     "path": "/img/gym/gym-55.jpg",
+     "mediaId": 220,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0732",
+     "path": "/img/gym/gym-57.jpg",
+     "mediaId": 218,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0734",
+     "path": "/img/gym/gym-46.jpg",
+     "mediaId": 229,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0736",
+     "path": "/img/gym/gym-33.jpg",
+     "mediaId": 242,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0738",
+     "path": "/img/gym/gym-34.jpg",
+     "mediaId": 241,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0740",
+     "path": "/img/gym/gym-03.jpg",
+     "mediaId": 272,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    }
+   ]
+  },
+  {
+   "_id": "post-424",
+   "title": "2020: BVDK Städtecup Wiesbaden",
+   "slug": "2020-bvdk-stadtecup-wiesbaden",
+   "date": "2020-12-31",
+   "year": 2020,
+   "showDate": true,
+   "excerpt": "Der erste Powerlifting-Wettkampf des Jahres für ein paar unserer Athleten: am 8. Februar der BVDK Städtecup in Wiesbaden. Ein gemischtes Team aus vier Kraftdreikampf-Athleten ging an…",
+   "cover": {
+    "path": "/img/gym/gym-62.jpg",
+    "alt": "2020: BVDK Städtecup Wiesbaden",
+    "mediaId": 212,
+    "width": 2560,
+    "height": 1707
+   },
+   "body": [
+    {
+     "_type": "imageBlock",
+     "_key": "i0746",
+     "path": "/img/gym/gym-11.jpg",
+     "mediaId": 264,
+     "alt": "",
+     "width": 667,
+     "height": 1000
+    },
+    {
+     "_type": "block",
+     "_key": "b0749",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0748",
+       "text": "Der erste Powerlifting-Wettkampf des Jahres für ein paar unserer Athleten: am 8. Februar der BVDK Städtecup in Wiesbaden. Ein gemischtes Team aus vier Kraftdreikampf-Athleten ging an den Start. Für Alex-Senior, wie er liebevoll genannt wird, war es der erste Wettkampf, den er mit Bravur meisterte.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0752",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0751",
+       "text": "Die anderen drei Powerlifter traten nach kurzen acht Wochen Pause – da sie alle beim Bembel starteten – wieder an.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0755",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0754",
+       "text": "Beim Städtecup zählt letztendlich die Teamwertung, gerechnet in Dots. Das gemischte Schwerathletik Mannheim Team erzielte den 5. Platz mit einer Gesamtwertung von 1.099 Dots.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0758",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0757",
+       "text": "Die einzelnen Ergebnisse sind unten aufgelistet.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0761",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0760",
+       "text": "Im Resümee ist zu sagen, dass die anfängliche Organisation des Städtecups in Wiesbaden etwas chaotisch war, der Wettkampf an sich jedoch eine super Stimmung hatte. Ebenfalls wurde sich, wie so oft im Kraftdreikampf, tatkräftig unterstützt und angefeuert.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "resultsTable",
+     "_key": "t0767",
+     "headers": [
+      "",
+      "Alexander Barth",
+      "Alexander Frank",
+      "Verena Fuhrmann",
+      "Jana Etzel"
+     ],
+     "rows": [
+      [
+       "Total",
+       "712,5 kg",
+       "450 kg",
+       "322,5 kg",
+       "282,5 kg"
+      ],
+      [
+       "DOTS",
+       "406,76",
+       "288,74",
+       "338,15",
+       "283,21"
+      ],
+      [
+       "Kniebeuge",
+       "250 kg (+15 kg PR)",
+       "170 kg",
+       "122,5 kg",
+       "100 kg"
+      ],
+      [
+       "Bankdrücken",
+       "170 kg (+7,5 kg PR)",
+       "130 kg",
+       "75 kg",
+       "60 kg"
+      ],
+      [
+       "Kreuzheben",
+       "292,5 kg",
+       "150 kg",
+       "135 kg",
+       "122,5 kg"
+      ]
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0772",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0769",
+       "text": "Somit starten wir voller Tatendrang und Freude in die ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s0770",
+       "text": "Powerlifting-Saison 2020",
+       "marks": [
+        "em"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s0771",
+       "text": " und sind gespannt auf alle weiteren Wettkämpfe – als nächstes folgen die Deutschen Meisterschaften der Junioren und Aktiven. Seid gespannt!",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-422",
+   "title": "2019: Jahresrückblick",
+   "slug": "2019-jahresruckblick",
+   "date": "2019-12-31",
+   "year": 2019,
+   "showDate": true,
+   "excerpt": "Deutsche Meisterschaften Das Jahr startete für den jungen Verein mit zwei Teilnehmern bei der Deutschen Meisterschaft im KDK für Jugend und Junioren (BVDK). Roy und Anna starteten für…",
+   "cover": {
+    "path": "/img/news/bild021.jpg",
+    "alt": "2019: Jahresrückblick",
+    "mediaId": 171,
+    "width": 1282,
+    "height": 1920
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0780",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0779",
+       "text": "Deutsche Meisterschaften",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0783",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0782",
+       "text": "Das Jahr startete für den jungen Verein mit zwei Teilnehmern bei der Deutschen Meisterschaft im KDK für Jugend und Junioren (BVDK). Roy und Anna starteten für den Verein.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0786",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0785",
+       "text": "Weiter im Jahr ging es mit der Deutschen Meisterschaft der Aktiven im KDK. Hier startete Gregor mit einer guten Leistung.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0788",
+     "path": "/img/gym/gym-09.jpg",
+     "mediaId": 266,
+     "alt": "",
+     "width": 1000,
+     "height": 667
+    },
+    {
+     "_type": "block",
+     "_key": "b0792",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0791",
+       "text": "Highlandgames Angelbachtal",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0795",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0794",
+       "text": "In Richtung Sommer starteten die Vorbereitungen für die Teilnahme an den Highlandgames in Angelbachtal. Im Verein haben sich zwei Teams gefunden – ein Damen- sowie ein Herrenteam. Das Crossfit Saar gestattete uns Eintritt in die eigene Anlage, wo die Teilnehmer Übungen, wie Farmers Walk, Baumstamm-Slalom etc. üben können.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0798",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0797",
+       "text": "Im Hochsommer fanden die Highlandgames statt. Beide Teams strengten sich ordentlich an und konnten gute Leistungen erbringen im Vergleich zu den anderen geübten Gruppen.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0800",
+     "path": "/img/news/bild021.jpg",
+     "mediaId": 171,
+     "alt": "",
+     "width": 1282,
+     "height": 1920
+    },
+    {
+     "_type": "block",
+     "_key": "b0803",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0802",
+       "text": "TRAININGSLAGER BASEL",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0806",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0805",
+       "text": "Unser diesjähriges Trainingslager haben wir bei Ramon im Crossfit Basel abgehalten.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0809",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0808",
+       "text": "Wir haben viel trainiert, gelernt und gegessen. Es wurden Disziplinen aus dem Strongman und KDK trainiert. Gegenseitige Technikkontrollen & Theorieeinheiten (Reha,Wettkampf und Trainingsplanung) waren Teil der Tagesagenda. Insgesamt war es ein erfolgreiches Wochenende und vielen Dank an das Crossfit Basel für die hervorragenden Trainingsmöglichkeiten!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0812",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0811",
+       "text": "LANDESMEISTERSCHAFT BADEN-WÜRTTEMBERG – KDK IN WEINHEIM",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0815",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0814",
+       "text": "Die erste LM als eingetragener Verein!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0818",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0817",
+       "text": "Und das gleich mit großem Erfolg, durch ein sehr großes Starterfeld unsererseits. Wir sind mit 10 Kraftdreikampf-Athleten angetreten. Dabei waren wir in den unterschiedlichen Klassen von der Jugend bis hin zu den Aktiven vertreten. Für Rebecca & Tim war es der erste Wettkampf im Powerlifting.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0821",
+     "style": "h3",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0820",
+       "text": "BARBAROSSA CUP & BEMBEL 2.0",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0824",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0823",
+       "text": "Bei dem Barbarossa Cup traten in 2019 zwei unserer Athleten an.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0827",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0826",
+       "text": "Für beide und auch für den Verein war es ein Debüt bei diesem sportlichen Wettkampf teilzunehmen. Zusätzlich sind drei weitere Mitglieder zum unterstützen mit angereist.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0830",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0829",
+       "text": "Alle Beteiligten hatten ihren Spaß an dem gut organisierten Wettkampf teilzunehmen und kommen gerne wieder!",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0833",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0832",
+       "text": "Ebenso im Jahr 2019 traten für unseren Verein beim Bembel acht starke Athleten an.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0836",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0835",
+       "text": "Darunter vier Frauen, ein Junior -85kg, zwei Junioren +85kg & ein Athlet bei den Männern +90kg. Bei den Frauen waren 3 Erst-Starterinnen dabei, die diesen Traditionsreichen Wettkampf für ein erfolgreiches Debüt nutzten.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0839",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0838",
+       "text": "Unser Junior Alex bestritt am Bembel den zweiten Wettkampf innerhalb einer Woche und zeigte trotz dessen eine top Leistung.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0842",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0841",
+       "text": "Der Bembel steht natürlich auch im Jahr 2020 wieder auf dem Vereinsplan.",
+       "marks": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_id": "post-420",
+   "title": "2018: Bembel 2.0",
+   "slug": "2018-bembel-2-0",
+   "date": "2018-12-31",
+   "year": 2018,
+   "showDate": true,
+   "excerpt": "In unserem Gründungsjahr 2018 haben einige der Mitglieder am Bembel teilgenommen. Für viele der erste Wettkampf überhaupt mit sehr guter Stimmung.",
+   "cover": {
+    "path": "/img/news/processed-with-vsco-with-c9-preset.jpg",
+    "alt": "2018: Bembel 2.0",
+    "mediaId": 163,
+    "width": 800,
+    "height": 600
+   },
+   "body": [
+    {
+     "_type": "block",
+     "_key": "b0846",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0845",
+       "text": "In unserem Gründungsjahr 2018 haben einige der Mitglieder am Bembel teilgenommen. Für viele der erste Wettkampf überhaupt mit sehr guter Stimmung.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0848",
+     "path": "/img/news/kopie-von-56ec3089-1f49-4ed2-96b4-ba57b0e78431.jpg",
+     "mediaId": 165,
+     "alt": "",
+     "width": 1600,
+     "height": 1200,
+     "caption": "Bembel 2.0"
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0850",
+     "path": "/img/news/processed-with-vsco-with-c9-preset-2.jpg",
+     "mediaId": 164,
+     "alt": "",
+     "width": 800,
+     "height": 532,
+     "caption": "Bembel 2.0"
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0852",
+     "path": "/img/news/processed-with-vsco-with-c9-preset.jpg",
+     "mediaId": 163,
+     "alt": "",
+     "width": 800,
+     "height": 600,
+     "caption": "Bembel 2.0"
+    },
+    {
+     "_type": "imageBlock",
+     "_key": "i0854",
+     "path": "/img/news/processed-with-vsco-with-c9-preset-3.jpg",
+     "mediaId": 166,
+     "alt": "",
+     "width": 800,
+     "height": 600,
+     "caption": "Bembel 2.0"
+    }
+   ]
+  }
+ ],
+ "people": [
+  {
+   "_id": "person-365",
+   "name": "Roy Lotzwik",
+   "role": "1. Vorstand",
+   "department": "vorstand",
+   "photo": "/img/people/vorstand-1-roy-lotzwik.jpg",
+   "order": 0
+  },
+  {
+   "_id": "person-366",
+   "name": "Sven Mitländer",
+   "role": "2. Vorstand",
+   "department": "vorstand",
+   "photo": "/img/people/vorstand-2-sven-mitlaender.jpg",
+   "order": 1
+  },
+  {
+   "_id": "person-651",
+   "name": "Benedikt Rhomberg-Kauert",
+   "role": "1. Kassierer",
+   "department": "vorstand",
+   "photo": "/img/people/kassierer-1-benedikt-rhomberg-kauert.jpg",
+   "order": 2
+  },
+  {
+   "_id": "person-652",
+   "name": "Julia Renkel",
+   "role": "2. Kassiererin",
+   "department": "vorstand",
+   "photo": "/img/people/kassiererin-2-julia-renkel.jpeg",
+   "order": 3
+  },
+  {
+   "_id": "person-368",
+   "name": "Stanislaus Schwabauer",
+   "role": "Abteilungsleitung",
+   "department": "gewichtheben",
+   "photo": "/img/people/gewichtheben-stanislaus-schwabauer.jpg",
+   "order": 4
+  },
+  {
+   "_id": "person-370",
+   "name": "Veronika Schulze",
+   "role": "Abteilungsleitung",
+   "department": "kdk",
+   "photo": "/img/people/kdk-veronika-schulze.jpg",
+   "order": 5
+  },
+  {
+   "_id": "person-650",
+   "name": "Simon Oswald",
+   "role": "Abteilungsleitung",
+   "department": "kdk",
+   "photo": "/img/people/kdk-simon-oswald.jpg",
+   "order": 6
+  },
+  {
+   "_id": "person-369",
+   "name": "Keven Reinfrank",
+   "role": "Schlichtungsbeauftragter",
+   "department": "schlichtung",
+   "photo": "/img/people/schlichtung-keven-reinfrank.jpg",
+   "order": 7
+  },
+  {
+   "_id": "person-374",
+   "name": "Janosch Janson",
+   "role": "Coach",
+   "department": "coach",
+   "photo": "/img/people/coach-janosch-janson.jpg",
+   "disciplines": [
+    "KDK/Powerlifting",
+    "Bodybuilding"
+   ],
+   "profileUrl": "https://drive.google.com/file/d/1L1MNB8z2GS6u6QFxcMZFXdV5_YIyGFTd/view?usp=sharing",
+   "order": 8
+  },
+  {
+   "_id": "person-373",
+   "name": "Keven Reinfrank",
+   "role": "Coach",
+   "department": "coach",
+   "photo": "/img/people/coach-keven-reinfrank.jpg",
+   "disciplines": [
+    "KDK/Powerlifting",
+    "Bodybuilding"
+   ],
+   "profileUrl": "https://drive.google.com/file/d/1ezcj2gNdjlwo9ym3UFgqKI_RR0PAaoRV/view?usp=sharing",
+   "order": 9
+  },
+  {
+   "_id": "person-307",
+   "name": "Simon Oswald",
+   "role": "Coach",
+   "department": "coach",
+   "photo": "/img/people/coach-simon-oswald.jpg",
+   "disciplines": [
+    "KDK/Powerlifting",
+    "Allgemeines Krafttraining"
+   ],
+   "profileUrl": "https://drive.google.com/file/d/1tWPLLN4eT79GnfIFJVjl9HFyX9yO6EkY/view?usp=sharing",
+   "order": 10
+  },
+  {
+   "_id": "person-375",
+   "name": "Stani Schwabauer",
+   "role": "Coach",
+   "department": "coach",
+   "photo": "/img/people/coach-stani-schwabauer.jpg",
+   "disciplines": [
+    "Gewichtheben",
+    "KDK/Powerlifting",
+    "Allgemeines Krafttraining"
+   ],
+   "profileUrl": "https://drive.google.com/file/d/1mFvHJMKxiMT2QQR3BeYLnmZ_gU27r7Kl/view?usp=sharing",
+   "order": 11
+  }
+ ],
+ "faq": [
+  {
+   "_id": "faq-1",
+   "question": "Welche Sportarten bieten wir an?",
+   "answer": [
+    {
+     "_type": "block",
+     "_key": "b0856",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0857",
+       "text": "Unsere Hauptsportarten sind Kraftdreikampf und Gewichtheben. Wir sind aber offen für alle Kraftsportarten! In der Vergangenheit haben wir zum Beispiel bereits an Highland Games teilgenommen und gemeinsam Strongman-Disziplinen geübt.",
+       "marks": []
+      }
+     ]
+    }
+   ],
+   "order": 0
+  },
+  {
+   "_id": "faq-2",
+   "question": "Wo trainieren wir?",
+   "answer": [
+    {
+     "_type": "block",
+     "_key": "b0858",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0859",
+       "text": "Wir haben eine Trainingsstätte in der Halle des SKV Sandhofen, Kalthorststraße 44, 68307 Mannheim. Unsere Mitglieder haben per App Zugang zu der Halle. Bitte melde dich bei uns, wenn du dort ein Probetraining machen möchtest, damit jemand vor Ort ist. Probetrainings sind nur nach vorheriger Vereinbarung möglich.",
+       "marks": []
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b0860",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0861",
+       "text": "Einige Mitglieder, die etwas weiter entfernt wohnen, trainieren im Fitnessstudio und schauen nur ab und zu in unserer Trainingsstätte vorbei. Das ist auch vollkommen okay!",
+       "marks": []
+      }
+     ]
+    }
+   ],
+   "order": 1
+  },
+  {
+   "_id": "faq-3",
+   "question": "Wer kann bei uns Mitglied werden?",
+   "answer": [
+    {
+     "_type": "block",
+     "_key": "b0862",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0863",
+       "text": "Bei uns kann jeder Mitglied werden, der Interesse am Kraftsport hat! Auch Anfänger sind herzlich willkommen. Wichtiger als dein Leistungsstand ist deine Bereitschaft, am Vereinsleben zu partizipieren und mitzuhelfen.",
+       "marks": []
+      }
+     ]
+    }
+   ],
+   "order": 2
+  },
+  {
+   "_id": "faq-4",
+   "question": "Was ist Kraftdreikampf?",
+   "answer": [
+    {
+     "_type": "block",
+     "_key": "b0864",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0865",
+       "text": "Kraftdreikampf besteht aus den drei Disziplinen Kniebeuge, Bankdrücken und Kreuzheben. Alle Disziplinen werden mit Langhanteln durchgeführt. Ziel ist es, möglichst viel Gewicht für eine Wiederholung zu bewegen. Wir zeigen dir die Übungen gern bei einem Probetraining!",
+       "marks": []
+      }
+     ]
+    }
+   ],
+   "order": 3
+  },
+  {
+   "_id": "faq-5",
+   "question": "Was ist Gewichtheben?",
+   "answer": [
+    {
+     "_type": "block",
+     "_key": "b0866",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0867",
+       "text": "Beim olympischen Gewichtheben geht es darum, die Langhantel über den Kopf anzuheben. Dies wird in den zwei Varianten Reißen und Stoßen durchgeführt. In der technisch etwas anspruchsvolleren Sportart, verglichen mit dem Kraftdreikampf, wird ebenfalls möglichst viel Gewicht für eine Wiederholung bewegt. Wir zeigen dir die Übungen gern bei einem Probetraining!",
+       "marks": []
+      }
+     ]
+    }
+   ],
+   "order": 4
+  },
+  {
+   "_id": "faq-6",
+   "question": "Kann man über unseren Verein bei Wettkämpfen starten?",
+   "answer": [
+    {
+     "_type": "block",
+     "_key": "b0868",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0869",
+       "text": "Unser Verein ist Mitglied im BWG, dem Baden-Württembergischen Verband für Gewichtheben und Kraftdreikampf. Somit kannst du über uns bei BWG- und BVDK-Wettkämpfen starten.",
+       "marks": []
+      }
+     ]
+    }
+   ],
+   "order": 5
+  },
+  {
+   "_id": "faq-7",
+   "question": "Wie viel kostet die Mitgliedschaft?",
+   "answer": [
+    {
+     "_type": "block",
+     "_key": "b0870",
+     "style": "normal",
+     "markDefs": [],
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s0871",
+       "text": "Die Mitgliedschaft in unserem Verein kostet für Erwachsene 15 € und für Ermäßigte 10 € pro Monat. Die Nutzung der Trainingsstätte kostet für Schwerathletik-Mitglieder 16 € pro Monat. Für weitere 5 € kann der angrenzende Fitnessbereich des SKV genutzt werden.",
+       "marks": []
+      }
+     ]
+    }
+   ],
+   "order": 6
+  }
+ ],
+ "gallery": [
+  {
+   "_id": "gallery-274",
+   "path": "/img/gym/gym-01.jpg",
+   "order": 1,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-273",
+   "path": "/img/gym/gym-02.jpg",
+   "order": 2,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-272",
+   "path": "/img/gym/gym-03.jpg",
+   "order": 3,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-271",
+   "path": "/img/gym/gym-04.jpg",
+   "order": 4,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-270",
+   "path": "/img/gym/gym-05.jpg",
+   "order": 5,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-269",
+   "path": "/img/gym/gym-06.jpg",
+   "order": 6,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-268",
+   "path": "/img/gym/gym-07.jpg",
+   "order": 7,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-267",
+   "path": "/img/gym/gym-08.jpg",
+   "order": 8,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-266",
+   "path": "/img/gym/gym-09.jpg",
+   "order": 9,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-265",
+   "path": "/img/gym/gym-10.jpg",
+   "order": 10,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-264",
+   "path": "/img/gym/gym-11.jpg",
+   "order": 11,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-263",
+   "path": "/img/gym/gym-12.jpg",
+   "order": 12,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-262",
+   "path": "/img/gym/gym-13.jpg",
+   "order": 13,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-261",
+   "path": "/img/gym/gym-14.jpg",
+   "order": 14,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-260",
+   "path": "/img/gym/gym-15.jpg",
+   "order": 15,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-259",
+   "path": "/img/gym/gym-16.jpg",
+   "order": 16,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-258",
+   "path": "/img/gym/gym-17.jpg",
+   "order": 17,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-257",
+   "path": "/img/gym/gym-18.jpg",
+   "order": 18,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-256",
+   "path": "/img/gym/gym-19.jpg",
+   "order": 19,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-255",
+   "path": "/img/gym/gym-20.jpg",
+   "order": 20,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-254",
+   "path": "/img/gym/gym-21.jpg",
+   "order": 21,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-253",
+   "path": "/img/gym/gym-22.jpg",
+   "order": 22,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-252",
+   "path": "/img/gym/gym-23.jpg",
+   "order": 23,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-251",
+   "path": "/img/gym/gym-24.jpg",
+   "order": 24,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-250",
+   "path": "/img/gym/gym-25.jpg",
+   "order": 25,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-249",
+   "path": "/img/gym/gym-26.jpg",
+   "order": 26,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-248",
+   "path": "/img/gym/gym-27.jpg",
+   "order": 27,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-247",
+   "path": "/img/gym/gym-28.jpg",
+   "order": 28,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-246",
+   "path": "/img/gym/gym-29.jpg",
+   "order": 29,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-245",
+   "path": "/img/gym/gym-30.jpg",
+   "order": 30,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-244",
+   "path": "/img/gym/gym-31.jpg",
+   "order": 31,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-243",
+   "path": "/img/gym/gym-32.jpg",
+   "order": 32,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-242",
+   "path": "/img/gym/gym-33.jpg",
+   "order": 33,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-241",
+   "path": "/img/gym/gym-34.jpg",
+   "order": 34,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-240",
+   "path": "/img/gym/gym-35.jpg",
+   "order": 35,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-239",
+   "path": "/img/gym/gym-36.jpg",
+   "order": 36,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-238",
+   "path": "/img/gym/gym-37.jpg",
+   "order": 37,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-237",
+   "path": "/img/gym/gym-38.jpg",
+   "order": 38,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-236",
+   "path": "/img/gym/gym-39.jpg",
+   "order": 39,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-235",
+   "path": "/img/gym/gym-40.jpg",
+   "order": 40,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-234",
+   "path": "/img/gym/gym-41.jpg",
+   "order": 41,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-233",
+   "path": "/img/gym/gym-42.jpg",
+   "order": 42,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-232",
+   "path": "/img/gym/gym-43.jpg",
+   "order": 43,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-231",
+   "path": "/img/gym/gym-44.jpg",
+   "order": 44,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-230",
+   "path": "/img/gym/gym-45.jpg",
+   "order": 45,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-229",
+   "path": "/img/gym/gym-46.jpg",
+   "order": 46,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-228",
+   "path": "/img/gym/gym-47.jpg",
+   "order": 47,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-227",
+   "path": "/img/gym/gym-48.jpg",
+   "order": 48,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-226",
+   "path": "/img/gym/gym-49.jpg",
+   "order": 49,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-225",
+   "path": "/img/gym/gym-50.jpg",
+   "order": 50,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-224",
+   "path": "/img/gym/gym-51.jpg",
+   "order": 51,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-223",
+   "path": "/img/gym/gym-52.jpg",
+   "order": 52,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-222",
+   "path": "/img/gym/gym-53.jpg",
+   "order": 53,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-221",
+   "path": "/img/gym/gym-54.jpg",
+   "order": 54,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-220",
+   "path": "/img/gym/gym-55.jpg",
+   "order": 55,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-219",
+   "path": "/img/gym/gym-56.jpg",
+   "order": 56,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-218",
+   "path": "/img/gym/gym-57.jpg",
+   "order": 57,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-217",
+   "path": "/img/gym/gym-58.jpg",
+   "order": 58,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-216",
+   "path": "/img/gym/gym-59.jpg",
+   "order": 59,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-215",
+   "path": "/img/gym/gym-60.jpg",
+   "order": 60,
+   "caption": "",
+   "width": 1000,
+   "height": 667
+  },
+  {
+   "_id": "gallery-214",
+   "path": "/img/gym/gym-61.jpg",
+   "order": 61,
+   "caption": "",
+   "width": 667,
+   "height": 1000
+  },
+  {
+   "_id": "gallery-212",
+   "path": "/img/gym/gym-62.jpg",
+   "order": 62,
+   "caption": "",
+   "width": 2560,
+   "height": 1707
+  },
+  {
+   "_id": "gallery-211",
+   "path": "/img/gym/gym-63.jpg",
+   "order": 63,
+   "caption": "",
+   "width": 2560,
+   "height": 1707
+  },
+  {
+   "_id": "gallery-210",
+   "path": "/img/gym/gym-64.jpg",
+   "order": 64,
+   "caption": "",
+   "width": 2560,
+   "height": 1707
+  },
+  {
+   "_id": "gallery-209",
+   "path": "/img/gym/gym-65.jpg",
+   "order": 65,
+   "caption": "",
+   "width": 1707,
+   "height": 2560
+  }
+ ],
+ "documents": [
+  {
+   "_id": "doc-vereinssatzung",
+   "title": "Vereinssatzung",
+   "subtitle": "Schwerathletik Mannheim 2018 e.V.",
+   "url": "https://drive.google.com/file/d/1xrDaIWT4L5z_yEsBNt3pu34uB97NzAmd/view?usp=sharing",
+   "order": 0
+  },
+  {
+   "_id": "doc-aufnahmeantrag",
+   "title": "Aufnahmeantrag",
+   "subtitle": "Schwerathletik Mannheim 2018 e.V.",
+   "url": "https://drive.google.com/file/d/1P7qhaCRrEk7M1B93hWv1Ii0kMpn5SoQ7/view?usp=sharing",
+   "order": 1
+  },
+  {
+   "_id": "doc-partizipationsordnung",
+   "title": "Partizipationsordnung",
+   "subtitle": "Schwerathletik Mannheim 2018 e.V.",
+   "url": "https://drive.google.com/file/d/1moRQbhne6BJL1bIld8BYFOarf5DiOE76/view?usp=sharing",
+   "order": 2
+  },
+  {
+   "_id": "doc-finanzordnung",
+   "title": "Finanzordnung",
+   "subtitle": "Schwerathletik Mannheim 2018 e.V.",
+   "url": "https://drive.google.com/file/d/1gR7FWmM3mmIHB8tDLN0qEIcxZXLbHp7s/view?usp=sharing",
+   "order": 3
+  },
+  {
+   "_id": "doc-anti-doping-ordnung",
+   "title": "Anti-Doping-Ordnung",
+   "subtitle": "Schwerathletik Mannheim 2018 e.V.",
+   "url": "https://drive.google.com/file/d/1kbgewbA49nBb7LyT8rexj4XUuOy436p9/view?usp=sharing",
+   "order": 4
+  },
+  {
+   "_id": "doc-wahlordnung",
+   "title": "Wahlordnung",
+   "subtitle": "Schwerathletik Mannheim 2018 e.V.",
+   "url": "https://drive.google.com/file/d/1K1PIdLnLDtv1N3-zYYOSFN2TkiYPToVh/view?usp=sharing",
+   "order": 5
+  }
+ ]
+}
