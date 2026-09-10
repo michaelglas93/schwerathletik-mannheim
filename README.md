@@ -168,8 +168,13 @@ Das Repo hängt an Vercel. Du musst nichts von Hand ausliefern:
 | Branch pushen, Pull Request öffnen | Vercel baut eine **Preview** unter einer eigenen URL |
 | Pull Request nach `main` mergen | Vercel baut und veröffentlicht die **Produktion** |
 
-Die Preview-URL steht im Pull Request. Dort kannst du deine Änderung ansehen, bevor sie
-live geht — teile sie mit dem Vorstand, wenn es um Inhalte geht.
+Die Preview-URL steht im Pull Request. Dort siehst du deine Änderung, bevor sie live
+geht.
+
+**Previews sind nicht öffentlich.** Sie liegen hinter Vercels Anmeldung — wer keinen
+Zugang zum Vercel-Projekt hat, landet auf einer Login-Seite. Zum Herzeigen taugt die URL
+also nicht; nimm einen Screenshot oder lass dir kurz jemanden über die Schulter schauen.
+(Teilbare Links ohne Anmeldung gäbe es erst im Pro-Plan.)
 
 **`main` ist geschützt.** Direkt dorthin pushen geht nicht. Jede Änderung braucht einen
 Pull Request und eine Freigabe.
