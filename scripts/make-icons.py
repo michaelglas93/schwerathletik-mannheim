@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 """Erzeugt Favicon und Apple-Touch-Icon aus der Bildmarke.
 
-Auf diesem Rechner gibt es weder Pillow noch ImageMagick, und `sips` kann keine
-transparenten Flächen mit einer Farbe hinterlegen — die Bildmarke ist aber dunkles
-Anthrazit und würde auf einem dunklen Tab verschwinden. Deshalb hier ein kleiner
-eigener PNG-Weg: dekodieren, per Box-Filter verkleinern, auf den hellen Markenton
-komponieren, wieder kodieren.
+Auf diesem Rechner gibt es weder Pillow noch ImageMagick, deshalb hier ein kleiner
+eigener PNG-Weg: dekodieren, per Box-Filter verkleinern, wieder kodieren.
+
+Die Bildmarke besteht aus dunklem Anthrazit und einem orangen Strich. Auf einem
+dunklen Tab verschwinden rund drei Viertel davon. Statt sie wie früher auf eine helle
+Fläche zu setzen, gibt es die Favicons jetzt transparent und in zwei Fassungen — die
+dunkle Marke für helle Oberflächen, eine aufgehellte für dunkle. Welche der Browser
+nimmt, entscheidet die Media Query in src/app/layout.tsx.
+
+Das Apple-Touch-Icon behält seinen Hintergrund: iOS legt transparente Kacheln auf
+Schwarz, und darauf wäre das Anthrazit wieder weg.
 
     python3 scripts/make-icons.py
 """
@@ -17,8 +23,8 @@ import zlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCE = os.path.join(ROOT, "public", "img", "brand", "logo-bildmarke.png")
-BACKGROUND = (0xF5, 0xF3, 0xF1)  # --color-bone, damit das Anthrazit sichtbar bleibt
-INSET = 0.78  # Anteil der Kantenlänge, den die Marke einnimmt
+BONE = (0xF5, 0xF3, 0xF1)  # --color-bone
+DARK_LIMIT = 90  # Ab hier gilt ein Pixel als „Anthrazit“ und wird für Dunkelmodus aufgehellt.
 
 Pixels = list[list[tuple[int, int, int, int]]]
 
@@ -84,6 +90,20 @@ def read_png(path: str) -> Pixels:
     return rows
 
 
+def trim(rows: Pixels) -> Pixels:
+    """Schneidet den durchsichtigen Rand ab, damit der Inset stimmt."""
+    height, width = len(rows), len(rows[0])
+    top, bottom, left, right = height, 0, width, 0
+    for y in range(height):
+        for x in range(width):
+            if rows[y][x][3] > 8:
+                top, bottom = min(top, y), max(bottom, y)
+                left, right = min(left, x), max(right, x)
+    if top > bottom:
+        return rows
+    return [row[left : right + 1] for row in rows[top : bottom + 1]]
+
+
 def resize(rows: Pixels, target_w: int, target_h: int) -> Pixels:
     """Box-Filter — für reines Verkleinern völlig ausreichend."""
     src_h, src_w = len(rows), len(rows[0])
@@ -111,13 +131,24 @@ def resize(rows: Pixels, target_w: int, target_h: int) -> Pixels:
     return out
 
 
-def write_png(path: str, rows: list[list[tuple[int, int, int]]]) -> None:
+def lighten(rows: Pixels) -> Pixels:
+    """Ersetzt das Anthrazit durch den hellen Markenton, lässt das Orange stehen."""
+    out: Pixels = []
+    for row in rows:
+        line = []
+        for r, g, b, a in row:
+            line.append((*BONE, a) if max(r, g, b) < DARK_LIMIT else (r, g, b, a))
+        out.append(line)
+    return out
+
+
+def write_png(path: str, rows: Pixels, alpha: bool) -> None:
     height, width = len(rows), len(rows[0])
     raw = bytearray()
     for row in rows:
         raw.append(0)  # Filter „None“
-        for r, g, b in row:
-            raw += bytes((r, g, b))
+        for r, g, b, a in row:
+            raw += bytes((r, g, b, a)) if alpha else bytes((r, g, b))
 
     def chunk(kind: bytes, payload: bytes) -> bytes:
         return (
@@ -129,45 +160,63 @@ def write_png(path: str, rows: list[list[tuple[int, int, int]]]) -> None:
 
     png = (
         b"\x89PNG\r\n\x1a\n"
-        + chunk(b"IHDR", struct.pack(">IIBBBBB", width, height, 8, 2, 0, 0, 0))
+        + chunk(b"IHDR", struct.pack(">IIBBBBB", width, height, 8, 6 if alpha else 2, 0, 0, 0))
         + chunk(b"IDAT", zlib.compress(bytes(raw), 9))
         + chunk(b"IEND", b"")
     )
     open(path, "wb").write(png)
 
 
-def make_icon(source: Pixels, size: int) -> list[list[tuple[int, int, int]]]:
+def make_icon(source: Pixels, size: int, inset: float, background: tuple | None) -> Pixels:
     src_h, src_w = len(source), len(source[0])
-    mark_w = int(size * INSET)
+    mark_w = int(size * inset)
     mark_h = max(1, round(mark_w * src_h / src_w))
-    if mark_h > size * INSET:
-        mark_h = int(size * INSET)
+    if mark_h > size * inset:
+        mark_h = int(size * inset)
         mark_w = max(1, round(mark_h * src_w / src_h))
 
     mark = resize(source, mark_w, mark_h)
     left, top = (size - mark_w) // 2, (size - mark_h) // 2
 
-    canvas = [[BACKGROUND for _ in range(size)] for _ in range(size)]
+    empty = (*background, 255) if background else (0, 0, 0, 0)
+    canvas: Pixels = [[empty for _ in range(size)] for _ in range(size)]
+
     for y in range(mark_h):
         for x in range(mark_w):
             r, g, b, a = mark[y][x]
             if not a:
                 continue
-            br, bg, bb = canvas[top + y][left + x]
-            canvas[top + y][left + x] = (
-                (r * a + br * (255 - a)) // 255,
-                (g * a + bg * (255 - a)) // 255,
-                (b * a + bb * (255 - a)) // 255,
-            )
+            if background:
+                br, bg, bb, _ = canvas[top + y][left + x]
+                canvas[top + y][left + x] = (
+                    (r * a + br * (255 - a)) // 255,
+                    (g * a + bg * (255 - a)) // 255,
+                    (b * a + bb * (255 - a)) // 255,
+                    255,
+                )
+            else:
+                canvas[top + y][left + x] = (r, g, b, a)
     return canvas
 
 
 def main() -> None:
-    source = read_png(SOURCE)
-    for name, size in (("icon.png", 512), ("apple-icon.png", 180)):
-        target = os.path.join(ROOT, "src", "app", name)
-        write_png(target, make_icon(source, size))
-        print(f"→ src/app/{name}  {size}×{size}")
+    source = trim(read_png(SOURCE))
+    light = source
+    dark = lighten(source)
+
+    jobs = (
+        # Datei, Größe, Inset, Hintergrund, Quelle
+        ("public/icon.png", 512, 0.92, None, light),
+        ("public/icon-dark.png", 512, 0.92, None, dark),
+        # iOS legt transparente Kacheln auf Schwarz — die hier behält ihre Fläche.
+        ("public/apple-icon.png", 180, 0.72, BONE, light),
+    )
+
+    for name, size, inset, background, mark in jobs:
+        target = os.path.join(ROOT, name)
+        write_png(target, make_icon(mark, size, inset, background), alpha=background is None)
+        art = "transparent" if background is None else "auf #%02X%02X%02X" % background
+        print(f"→ {name}  {size}×{size}  {art}")
 
 
 if __name__ == "__main__":

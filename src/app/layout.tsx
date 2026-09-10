@@ -19,6 +19,23 @@ export const metadata: Metadata = {
     url: "https://schwerathletik-mannheim.de",
   },
   alternates: { canonical: "/" },
+  // Die Bildmarke ist Anthrazit und ginge auf einem dunklen Tab unter, deshalb zwei
+  // transparente Fassungen. Der Browser wählt über die Media Query; wer sie nicht
+  // versteht, nimmt die erste. Das ?v= erzwingt das Neuladen — Favicons liegen sonst
+  // ewig im Browser-Cache. Erzeugt von scripts/make-icons.py.
+  icons: {
+    icon: [
+      { url: "/icon.png?v=2", type: "image/png", sizes: "512x512" },
+      {
+        url: "/icon-dark.png?v=2",
+        type: "image/png",
+        sizes: "512x512",
+        media: "(prefers-color-scheme: dark)",
+      },
+    ],
+    // iOS legt transparente Kacheln auf Schwarz, diese behält ihre helle Fläche.
+    apple: [{ url: "/apple-icon.png?v=2", type: "image/png", sizes: "180x180" }],
+  },
 };
 
 /**
