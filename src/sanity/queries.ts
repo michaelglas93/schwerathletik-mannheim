@@ -75,9 +75,6 @@ export const peopleQuery = defineQuery(`
   }
 `);
 
-export const faqQuery = defineQuery(`
-  *[_type == "faqItem"] | order(order asc) { _id, question, answer, order }
-`);
 
 export const galleryQuery = defineQuery(`
   *[_type == "galleryImage"] | order(order asc) {

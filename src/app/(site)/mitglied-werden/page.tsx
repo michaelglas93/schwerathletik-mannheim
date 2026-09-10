@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 
-import { Accordion } from "@/components/Accordion";
 import { ArrowUpRight, Button, PageHeader, Section, SectionHeading } from "@/components/ui";
-import { getFaq, getSettings } from "@/lib/content";
+import { getDocuments, getSettings } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Mitglied werden",
@@ -12,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 export default async function MitgliedWerdenPage() {
-  const [settings, faq] = await Promise.all([getSettings(), getFaq()]);
+  const [settings, documents] = await Promise.all([getSettings(), getDocuments()]);
 
   const steps = [
     {
@@ -103,12 +102,38 @@ export default async function MitgliedWerdenPage() {
         </div>
       </Section>
 
-      {/* FAQ */}
-      <Section id="faq">
-        <SectionHeading eyebrow="FAQ" title="Häufige Fragen" />
-        <div className="mt-12">
-          <Accordion items={faq} />
-        </div>
+      {/* Dokumente — gehören hierher, weil sie mit dem Eintritt verbindlich werden. */}
+      <Section id="dokumente">
+        <SectionHeading
+          eyebrow="Zum Nachlesen"
+          title="Vereinsdokumente"
+          lead="Mit dem Aufnahmeantrag erkennst du Satzung und Ordnungen an. Lies sie vorher — es lohnt sich, vor allem die Finanz- und die Anti-Doping-Ordnung."
+        />
+        <ul className="mt-12 divide-y divide-line border-y border-line">
+          {documents.map((doc) => (
+            <li key={doc._id}>
+              <a
+                href={doc.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group flex items-center justify-between gap-6 py-5 transition-colors hover:text-accent-hot"
+              >
+                <span>
+                  <span className="font-display text-lg uppercase tracking-[0.03em]">
+                    {doc.title}
+                  </span>
+                  {doc.subtitle && (
+                    <span className="mt-0.5 block text-sm text-faint">{doc.subtitle}</span>
+                  )}
+                </span>
+                <ArrowUpRight className="size-4 shrink-0 text-accent" />
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p className="mt-8 text-sm text-faint">
+          Die Dokumente liegen derzeit in Google Drive und öffnen sich in einem neuen Tab.
+        </p>
 
         <div className="mt-14 flex flex-wrap gap-3">
           <Button href={settings.membershipFormUrl} external>

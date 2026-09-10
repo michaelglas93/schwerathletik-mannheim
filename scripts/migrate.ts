@@ -86,7 +86,6 @@ type Seed = {
     disciplines?: string[];
     profileUrl?: string;
   }[];
-  faq: { _id: string; question: string; answer: Block[]; order: number }[];
   gallery: { _id: string; path: string; caption?: string; order: number }[];
   documents: { _id: string; title: string; subtitle?: string; url: string; order: number }[];
 };
@@ -192,16 +191,6 @@ async function buildDocuments() {
       ...(photoId ? { photo: { image: imageRef(photoId), alt: person.name } } : {}),
       ...(person.disciplines ? { disciplines: person.disciplines } : {}),
       ...(person.profileUrl ? { profileUrl: person.profileUrl } : {}),
-    });
-  }
-
-  for (const item of seed.faq) {
-    docs.push({
-      _id: item._id,
-      _type: "faqItem",
-      question: item.question,
-      answer: item.answer,
-      order: item.order,
     });
   }
 

@@ -79,12 +79,6 @@ export type Person = {
   profileUrl?: string;
 };
 
-export type FaqItem = {
-  _id: string;
-  question: string;
-  answer: PortableBlock[];
-  order: number;
-};
 
 export type GalleryImage = {
   _id: string;

@@ -46,5 +46,3 @@ next-env.d.ts
 .env.local
 scripts/.asset-map.json
 
-# Dublette der Bilder aus public/img — nur lokales Scrape-Archiv
-scrape/assets/

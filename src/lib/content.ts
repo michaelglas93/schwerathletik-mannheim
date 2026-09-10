@@ -13,7 +13,6 @@ import { hasSanity, sanityFetch } from "@/sanity/client";
 import * as q from "@/sanity/queries";
 import type {
   ClubDocument,
-  FaqItem,
   GalleryImage,
   Person,
   Post,
@@ -24,7 +23,6 @@ const local = seed as unknown as {
   settings: Settings;
   posts: Post[];
   people: Person[];
-  faq: FaqItem[];
   gallery: GalleryImage[];
   documents: ClubDocument[];
 };
@@ -61,13 +59,6 @@ export async function getPeople(): Promise<Person[]> {
   return local.people;
 }
 
-export async function getFaq(): Promise<FaqItem[]> {
-  if (hasSanity) {
-    const faq = await sanityFetch<FaqItem[]>(q.faqQuery);
-    if (faq?.length) return faq;
-  }
-  return local.faq;
-}
 
 export async function getGallery(): Promise<GalleryImage[]> {
   if (hasSanity) {
