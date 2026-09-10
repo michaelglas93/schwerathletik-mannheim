@@ -1,0 +1,25 @@
+Copyright (c) 2026 Schwerathletik Mannheim 2018 e.V.
+
+Alle Rechte vorbehalten.
+
+Dieses Repository ist öffentlich einsehbar, damit die Arbeit an der Vereinswebsite
+nachvollziehbar ist. Es ist keine Open-Source-Veröffentlichung: Ohne vorherige
+schriftliche Zustimmung des Vereins ist es nicht gestattet, den Inhalt dieses
+Repositorys ganz oder in Teilen zu vervielfältigen, zu verbreiten, zu verändern oder
+öffentlich zugänglich zu machen.
+
+Das gilt ausdrücklich auch für die Fotos unter public/img/. Sie zeigen Mitglieder des
+Vereins und stammen aus dem Vereinsarchiv; an ihnen bestehen sowohl Urheberrechte als
+auch Persönlichkeitsrechte der abgebildeten Personen. Eine Weiterverwendung außerhalb
+dieses Projekts ist nicht erlaubt.
+
+
+Ausnahmen
+---------
+
+Die Schriftdateien unter src/fonts/ stehen unter der SIL Open Font License 1.1 und
+sind von dieser Einschränkung ausgenommen. Der Lizenztext und die Copyright-Hinweise
+der jeweiligen Projekte liegen in src/fonts/OFL.txt.
+
+Die Abhängigkeiten in package.json stehen unter ihren eigenen Lizenzen; sie sind nicht
+Teil dieses Repositorys, sondern werden bei der Installation bezogen.
