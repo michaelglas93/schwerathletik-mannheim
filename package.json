@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "extract": "python3 scripts/extract.py",
     "migrate": "tsx scripts/migrate.ts",
     "typecheck": "tsc --noEmit"
   },
