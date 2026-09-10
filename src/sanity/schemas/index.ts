@@ -3,13 +3,12 @@ import type { SchemaTypeDefinition } from "sanity";
 import { imageBlock, link, resultsTable } from "./blocks";
 import { person } from "./person";
 import { post } from "./post";
-import { clubDocument, faqItem, galleryImage } from "./simple";
+import { clubDocument, galleryImage } from "./simple";
 import { siteSettings } from "./siteSettings";
 
 export const schemaTypes: SchemaTypeDefinition[] = [
   post,
   person,
-  faqItem,
   galleryImage,
   clubDocument,
   siteSettings,

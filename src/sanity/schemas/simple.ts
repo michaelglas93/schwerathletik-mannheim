@@ -1,34 +1,5 @@
 import { defineArrayMember, defineField, defineType } from "sanity";
 
-export const faqItem = defineType({
-  name: "faqItem",
-  title: "FAQ-Eintrag",
-  type: "document",
-  fields: [
-    defineField({
-      name: "question",
-      title: "Frage",
-      type: "string",
-      validation: (rule) => rule.required(),
-    }),
-    defineField({
-      name: "answer",
-      title: "Antwort",
-      type: "array",
-      of: [defineArrayMember({ type: "block", styles: [{ title: "Absatz", value: "normal" }] })],
-      validation: (rule) => rule.required(),
-    }),
-    defineField({
-      name: "order",
-      title: "Reihenfolge",
-      type: "number",
-      initialValue: 100,
-    }),
-  ],
-  orderings: [{ name: "manual", title: "Reihenfolge", by: [{ field: "order", direction: "asc" }] }],
-  preview: { select: { title: "question", subtitle: "order" } },
-});
-
 export const galleryImage = defineType({
   name: "galleryImage",
   title: "Galeriebild",

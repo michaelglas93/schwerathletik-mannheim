@@ -107,9 +107,6 @@ export default async function KontaktPage() {
           <Button href="/mitglied-werden" variant="outline">
             Mitglied werden
           </Button>
-          <Button href="/mitglied-werden#faq" variant="outline">
-            Häufige Fragen
-          </Button>
           <Button href="/team" variant="outline">
             Ämter und Coaches
           </Button>

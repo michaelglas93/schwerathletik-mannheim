@@ -18,10 +18,6 @@ export const structure: StructureResolver = (S) =>
         .schemaType("person")
         .child(S.documentTypeList("person").title("Personen")),
       S.listItem()
-        .title("FAQ")
-        .schemaType("faqItem")
-        .child(S.documentTypeList("faqItem").title("FAQ")),
-      S.listItem()
         .title("Galerie Trainingsstätte")
         .schemaType("galleryImage")
         .child(S.documentTypeList("galleryImage").title("Galerie")),

@@ -400,51 +400,6 @@ def build_people(media_by_id) -> list[dict]:
     return people
 
 
-FAQ = [
-    ("Welche Sportarten bieten wir an?",
-     "Unsere Hauptsportarten sind Kraftdreikampf und Gewichtheben. Wir sind aber offen für alle "
-     "Kraftsportarten! In der Vergangenheit haben wir zum Beispiel bereits an Highland Games "
-     "teilgenommen und gemeinsam Strongman-Disziplinen geübt."),
-    ("Wo trainieren wir?",
-     "Wir haben eine Trainingsstätte in der Halle des SKV Sandhofen, Kalthorststraße 44, "
-     "68307 Mannheim. Unsere Mitglieder haben per App Zugang zu der Halle. Bitte melde dich bei "
-     "uns, wenn du dort ein Probetraining machen möchtest, damit jemand vor Ort ist. "
-     "Probetrainings sind nur nach vorheriger Vereinbarung möglich.\n\n"
-     "Einige Mitglieder, die etwas weiter entfernt wohnen, trainieren im Fitnessstudio und "
-     "schauen nur ab und zu in unserer Trainingsstätte vorbei. Das ist auch vollkommen okay!"),
-    ("Wer kann bei uns Mitglied werden?",
-     "Bei uns kann jeder Mitglied werden, der Interesse am Kraftsport hat! Auch Anfänger sind "
-     "herzlich willkommen. Wichtiger als dein Leistungsstand ist deine Bereitschaft, am "
-     "Vereinsleben zu partizipieren und mitzuhelfen."),
-    ("Was ist Kraftdreikampf?",
-     "Kraftdreikampf besteht aus den drei Disziplinen Kniebeuge, Bankdrücken und Kreuzheben. "
-     "Alle Disziplinen werden mit Langhanteln durchgeführt. Ziel ist es, möglichst viel Gewicht "
-     "für eine Wiederholung zu bewegen. Wir zeigen dir die Übungen gern bei einem Probetraining!"),
-    ("Was ist Gewichtheben?",
-     "Beim olympischen Gewichtheben geht es darum, die Langhantel über den Kopf anzuheben. Dies "
-     "wird in den zwei Varianten Reißen und Stoßen durchgeführt. In der technisch etwas "
-     "anspruchsvolleren Sportart, verglichen mit dem Kraftdreikampf, wird ebenfalls möglichst "
-     "viel Gewicht für eine Wiederholung bewegt. Wir zeigen dir die Übungen gern bei einem "
-     "Probetraining!"),
-    ("Kann man über unseren Verein bei Wettkämpfen starten?",
-     "Unser Verein ist Mitglied im BWG, dem Baden-Württembergischen Verband für Gewichtheben und "
-     "Kraftdreikampf. Somit kannst du über uns bei BWG- und BVDK-Wettkämpfen starten."),
-    ("Wie viel kostet die Mitgliedschaft?",
-     "Die Mitgliedschaft in unserem Verein kostet für Erwachsene 15 € und für Ermäßigte 10 € pro "
-     "Monat. Die Nutzung der Trainingsstätte kostet für Schwerathletik-Mitglieder 16 € pro Monat. "
-     "Für weitere 5 € kann der angrenzende Fitnessbereich des SKV genutzt werden."),
-]
-
-
-def build_faq() -> list[dict]:
-    items = []
-    for i, (q, a) in enumerate(FAQ):
-        blocks = [{"_type": "block", "_key": key("b"), "style": "normal", "markDefs": [],
-                   "children": [{"_type": "span", "_key": key("s"), "text": para, "marks": []}]}
-                  for para in a.split("\n\n")]
-        items.append({"_id": f"faq-{i + 1}", "question": q, "answer": blocks, "order": i})
-    return items
-
 
 def build_gallery(media_by_id) -> list[dict]:
     out = []
@@ -526,7 +481,6 @@ def main():
         "settings": SETTINGS,
         "posts": build_posts(media_by_id, media_by_source),
         "people": build_people(media_by_id),
-        "faq": build_faq(),
         "gallery": build_gallery(media_by_id),
         "documents": build_documents(),
     }
@@ -543,7 +497,6 @@ def main():
           f"{sum(1 for p in data['posts'] if p['cover'])})")
     print(f"  Bilder im Text {images}   Ergebnistabellen {tables}")
     print(f"  Personen      {len(data['people'])}")
-    print(f"  FAQ           {len(data['faq'])}")
     print(f"  Galerie       {len(data['gallery'])}")
     print(f"  Dokumente     {len(data['documents'])}")
     if missing:

@@ -14,7 +14,8 @@ const nextConfig: NextConfig = {
       { source: "/dokumente", destination: "/verein", permanent: true },
       { source: "/vereinssatzung-und-ordnungen", destination: "/verein#dokumente", permanent: true },
       { source: "/dokumente/mitglied-werden", destination: "/mitglied-werden", permanent: true },
-      { source: "/faq", destination: "/mitglied-werden#faq", permanent: true },
+      // Die FAQ gibt es nicht mehr; die Seite beantwortet das im Ablauf.
+      { source: "/faq", destination: "/mitglied-werden", permanent: true },
       { source: "/trainingsstatte", destination: "/trainingsstaette", permanent: true },
       { source: "/kontakt/coaches-im-verein", destination: "/team#coaches", permanent: true },
       { source: "/kontakt/aemter-im-verein", destination: "/team", permanent: true },

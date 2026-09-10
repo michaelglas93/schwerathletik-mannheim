@@ -28,8 +28,8 @@ Netzwerkfehler — auf `content/seed.json` zurück. Beide Quellen liefern diesel
 `src/lib/types.ts`, die Seiten müssen also nicht unterscheiden.
 
 `content/seed.json` entsteht aus dem WordPress-Scrape in `scrape/` über
-`scripts/extract.py`: 27 Beiträge inklusive Ergebnistabellen, 12 Personen, 7 FAQ-Einträge,
-65 Galeriebilder, 6 Dokumente und die Vereinsdaten.
+`scripts/extract.py`: 27 Beiträge inklusive Ergebnistabellen, 12 Personen, 65 Galeriebilder,
+6 Dokumente und die Vereinsdaten.
 
 ## Sanity einrichten
 
