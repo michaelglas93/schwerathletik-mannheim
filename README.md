@@ -75,7 +75,7 @@ Was in Sanity liegt, definieren die Schemata in `src/sanity/`:
 
 | Datei | Inhalt |
 |---|---|
-| `schemas/siteSettings.ts` | Vereinsdaten: Anschrift, Register, Vorstand, E-Mails, Beiträge, Partner |
+| `schemas/siteSettings.ts` | Vereinsdaten: Anschrift, Register, Vorstand, E-Mails, Partner |
 | `schemas/post.ts` | Neuigkeiten mit Fließtext, Bildern und Ergebnistabellen |
 | `schemas/person.ts` | Vorstand, Abteilungsleitung, Coaches |
 | `schemas/simple.ts` | Galeriebilder, Vereinsdokumente |

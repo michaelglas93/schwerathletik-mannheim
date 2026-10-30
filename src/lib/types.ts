@@ -113,7 +113,6 @@ export type Settings = {
   board: string[];
   emails: { label: string; address: string }[];
   social: { label: string; url: string }[];
-  fees: { label: string; amount: string; period: string }[];
   partners: { label: string; url: string; note: string }[];
   membershipFormUrl: string;
   skvMembershipUrl: string;
