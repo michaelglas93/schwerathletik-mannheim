@@ -6,7 +6,7 @@ import { getDocuments, getSettings } from "@/lib/content";
 export const metadata: Metadata = {
   title: "Mitglied werden",
   description:
-    "Probetraining, Aufnahmeantrag und Beiträge der Schwerathletik Mannheim 2018 e.V. " +
+    "Probetraining, Aufnahmeantrag und Mitgliedschaft der Schwerathletik Mannheim 2018 e.V. " +
     "Anfänger sind ausdrücklich willkommen.",
 };
 
@@ -34,7 +34,7 @@ export default async function MitgliedWerdenPage() {
       text:
         "Unsere Trainingsstätte läuft in Kooperation mit dem Partnerverein SKV Sandhofen. Um " +
         "sie zu nutzen, wirst du zusätzlich dort Mitglied — relevant sind die Abteilungen " +
-        "„Schwerathletik“ und „SKVfit“.",
+        "„Schwerathletik“ und „SKVfit“. Die aktuellen Beiträge findest du auf der SKV-Homepage.",
       action: { label: "Zur SKV-Mitgliedschaft", href: settings.skvMembershipUrl, external: true },
     },
   ];
@@ -76,30 +76,6 @@ export default async function MitgliedWerdenPage() {
             </li>
           ))}
         </ol>
-      </Section>
-
-      {/* Beiträge */}
-      <Section tone="surface">
-        <div className="grid gap-12 lg:grid-cols-[1fr_1.3fr] lg:gap-20">
-          <SectionHeading
-            eyebrow="Beiträge"
-            title="Was es kostet"
-            lead="Mitgliedschaft und Hallennutzung werden getrennt abgerechnet — wer woanders trainiert, zahlt die Halle nicht mit."
-          />
-          <ul className="divide-y divide-line border-y border-line">
-            {settings.fees.map((fee) => (
-              <li key={fee.label} className="flex items-baseline justify-between gap-6 py-5">
-                <span className="text-[0.9375rem] text-muted">{fee.label}</span>
-                <span className="whitespace-nowrap text-right">
-                  <span className="font-display text-2xl font-semibold text-accent">
-                    {fee.amount}
-                  </span>
-                  <span className="ml-2 text-sm text-faint">{fee.period}</span>
-                </span>
-              </li>
-            ))}
-          </ul>
-        </div>
       </Section>
 
       {/* Dokumente — gehören hierher, weil sie mit dem Eintritt verbindlich werden. */}

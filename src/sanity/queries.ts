@@ -93,7 +93,7 @@ export const documentsQuery = defineQuery(`
 export const settingsQuery = defineQuery(`
   *[_type == "siteSettings"][0] {
     clubName, shortName, tagline, intro, introSecond, founded, gymSince,
-    address, gym, register, board, emails, social, fees, partners,
+    address, gym, register, board, emails, social, partners,
     membershipFormUrl, skvMembershipUrl,
     "heroImage": heroImage.asset->url
   }

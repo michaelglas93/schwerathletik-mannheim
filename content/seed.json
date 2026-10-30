@@ -59,28 +59,6 @@
     "url": "https://www.facebook.com/profile.php?id=100046941896475"
    }
   ],
-  "fees": [
-   {
-    "label": "Mitgliedschaft Erwachsene",
-    "amount": "15 €",
-    "period": "pro Monat"
-   },
-   {
-    "label": "Mitgliedschaft ermäßigt",
-    "amount": "10 €",
-    "period": "pro Monat"
-   },
-   {
-    "label": "Trainingsstätte",
-    "amount": "16 €",
-    "period": "pro Monat"
-   },
-   {
-    "label": "SKV-Fitnessbereich dazu",
-    "amount": "5 €",
-    "period": "pro Monat"
-   }
-  ],
   "partners": [
    {
     "label": "SKV Sandhofen",

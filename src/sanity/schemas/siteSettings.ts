@@ -115,23 +115,6 @@ export const siteSettings = defineType({
     { ...labelledUrl("partners", "Verbände und Partner"), group: "general" },
 
     defineField({
-      name: "fees",
-      title: "Beiträge",
-      type: "array",
-      group: "membership",
-      of: [
-        defineArrayMember({
-          type: "object",
-          fields: [
-            defineField({ name: "label", title: "Bezeichnung", type: "string" }),
-            defineField({ name: "amount", title: "Betrag", type: "string" }),
-            defineField({ name: "period", title: "Zeitraum", type: "string" }),
-          ],
-          preview: { select: { title: "label", subtitle: "amount" } },
-        }),
-      ],
-    }),
-    defineField({
       name: "membershipFormUrl",
       title: "Aufnahmeantrag",
       type: "url",
