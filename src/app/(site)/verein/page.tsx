@@ -22,7 +22,7 @@ export default async function VereinPage() {
     {
       year: settings.gymSince,
       title: "Eigene Trainingsstätte",
-      text: `In Zusammenarbeit mit dem SKV Sandhofen entsteht in einer der Hallen eine eigene Trainingsstätte — Racks, Hebeplattformen, Wettkampfbank.`,
+      text: `In Zusammenarbeit mit dem SKV Sandhofen entsteht in einer der Hallen eine eigene Trainingsstätte — Racks, Hebeplattformen, Wettkampfbänke.`,
     },
     {
       year: 2023,

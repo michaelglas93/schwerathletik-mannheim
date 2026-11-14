@@ -8,13 +8,13 @@ export const metadata: Metadata = {
   title: "Trainingsstätte",
   description:
     "Unsere Trainingsstätte in der Halle des SKV Sandhofen: Racks, Hebeplattformen, " +
-    "Wettkampfbank und Freihantelbereich in Mannheim-Sandhofen.",
+    "Wettkampfbänke und Freihantelbereich in Mannheim-Sandhofen.",
 };
 
 const EQUIPMENT = [
-  "3 Racks",
-  "1 Wettkampfbank",
-  "Je 2 Flach- und Schrägbänke",
+  "Racks",
+  "Wettkampfbänke",
+  "Flach- und Schrägbänke",
   "Hebeplattformen",
   "Wettkampf- und Trainingshanteln",
   "Reichlich Scheibengewicht",
