@@ -129,7 +129,7 @@ export default async function HomePage() {
             <SectionHeading
               eyebrow="Trainingsstätte"
               title="Racks, Plattformen, ordentlich Gewicht"
-              lead={`Seit ${settings.gymSince} haben wir eine eigene Halle beim ${settings.gym.name.replace("Halle des ", "")} in Mannheim-Sandhofen — mit Racks, Hebeplattformen, Wettkampfbank und allem, was der Kraftsport braucht. Dort trainieren wir und richten unsere Wettkämpfe aus.`}
+              lead={`Seit ${settings.gymSince} haben wir eine eigene Halle beim ${settings.gym.name.replace("Halle des ", "")} in Mannheim-Sandhofen — mit Racks, Hebeplattformen, Wettkampfbänken und allem, was der Kraftsport braucht. Dort trainieren wir und richten unsere Wettkämpfe aus.`}
             />
             <Button href="/trainingsstaette" variant="outline" className="mt-8">
               Halle ansehen
